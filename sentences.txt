@@ -1,0 +1,1824 @@
+FIVE-YEAR SUMMARY FINANCIAL YEAR1 (Amounts in US$ million unless otherwise stated) FY2018 FY2017 FY2016 (As Restated)2 FY2015 (As Restated)2 CY2013 PROFITABILITY3 Turnover   2,197.3   2,252.8   2,274.1   2,190.0  492.2 Gross Profit  432.5   494.9   485.8   411.5  115.6 EBITDA  102.3   194.0   241.3   89.7  42.3 EBITDA - without Non-Recurring items  165.0   211.8   208.2   149.3  68.8 Profit/(loss) from Operations  29.5   127.6   168.0   38.3  27.5 Net Profit Attributable to Owners  (36.5)  24.4   57.0   (40.3) 16.1 EPS (US cents)  (2.70)  1.21   2.93   (2.90) 1.24 Net Profit - without Non-Recurring items  12.0   45.5   25.2   (3.8) 33.9 EPS - without Non-Recurring items4 (US cents)  (0.20)  2.29   1.30   (0.28) 2.62 Gross Margin (%)  19.7   22.0   21.4   18.8   23.5  EBITDA Margin (%)  4.7   8.6   10.6   4.1   8.6  Operating Margin (%)  1.3   5.7   7.4   1.7   5.6  Net Margin (%)  na   1.1   2.5   na   3.3  EPS Growth (%)  na   58.7   201.0   na   (49.8) Return on Equity (%)   na   5.1   16.1   na   6.7  Return on Assets (%)  na   0.7   2.2   na   2.9  BALANCE SHEET Cash   24.2   37.6   47.2   35.6   132.9  Debt   1,465.2   1,714.0   1,843.8   1,718.5   276.7  Net Debt  1,441.0   1,676.4   1,796.6   1,682.9   143.8  Fixed Assets   610.9   657.2   661.2   679.3   99.5  Total Assets  2,509.1  2,757.1   2,706.4   2,628.4   617.6  Shareholders' Equity  608.3  578.6   377.0   330.5   228.4  Net Tangible Asset Per Share (US cents) (5.5)  (8.4)  (19.2)  (22.1)  16.5  Net Debt to Equity Ratio (%) 236.9  289.8   476.6   509.2   62.9  CASH FLOW Cash Flow from Operations  322.9  187.1   108.0   308.6   27.8  Capital Expenditure  148.2   145.0   137.2   144.1   24.7  SHARE STATISTICS5 Number of Outstanding Shares (m)  1,944.0   1,943.2   1,943.2   1,944.0   1,296.6  Number of Outstanding Preference Shares6 (m)  30.0   20.0   -   -   -  Singapore Exchange Share Price7 (S$)  0.20 0.34 0.42 0.57 0.56 Share Price (US$ equivalent)  0.15 0.24 0.31 0.41 0.44 Market Capitalisation (S$ m)   383.0   651.0   816.1   1,102.3   730.0  Market Capitalisation (US$ m)   287.2   466.4   606.8   834.4   575.2  P&L rate: US$1 : S$  1.33  1.40   1.35   1.32   1.27  Price Earnings Multiple3 (x)  na   20.0   10.6   na   40.0  Philippine Stock Exchange Share Price7 (Peso)   10.2   12.0   10.9   13.1   20.3  Share Price (US$ equivalent)   0.20   0.24   0.23   0.29   0.46  US$ : Peso exchange rate 51.7  49.9   46.9   44.5   44.4  Market Capitalisation (US$ m)   382.6   467.3   453.4   572.9   592.6  Price Earnings Multiple3 (x)  na   19.9   8.0   na   36.9  Share Price: Series A-1 Preference Shares6 (US$)  10.1   10.0   -   -   -  Share Price: Series A-2 Preference Shares6 (US$)  10.2   -   -   -   -  DIVIDEND Dividend Per Share (US cents)  -   0.61   1.33   -   0.62  Dividend Per Share (Singapore cents)  -   0.84   1.80   -   0.78  Dividend Yield (%)  -  2.5  5.2   -  1.1 Dividend Payout (%)  -   50.0   50.0   -   50.0  1  DMPLs fiscal year ends in April in line with its USA subsidiary Del Monte Foods, Inc. For 2013, fiscal year was ending December.
+
+2  DMPL adopted amendments to IAS 16 and IAS 41 (Agriculture: Bearer Plants in April 2017).
+
+The change in accounting standard was applied retrospectively.
+
+This involved reclassifying a portion of biological assets to plant, property and equipment leading to much higher depreciation expense.
+
+However, for EBITDA  calculation, the Group retained the old calculation using the lower depreciation for comparability.
+
+3  The profitability of the Group from CY2013-FY2018 had been impacted by non-recurring items mostly in the USA.
+
+Please refer to the Operating and Financial  Review section for more details.
+
+4  EPS is calculated as earnings after preference share dividends resulting in a negative figure in FY2018.
+
+5  DMPL ordinary shares were listed on 2 August 1999 on the Singapore Exchange and on 10 June 2013 on the Philippine Stock Exchange (PSE).
+
+Singapore share  prices are converted to US cents for the purpose of computing financial ratios.
+
+DMPL did a 2:10 Bonus Issue with ex-date of 9 April 2013.
+
+It also did a Rights  Issue in March 2015.
+
+New shares issued resulted in a 33% dilution.
+
+6  Preference Shares started trading on the PSE on 7 April 2017 for Series A-1 and on 15 December 2017 for Series A-2.
+
+7  Based on fiscal yearend prices, ie 30 April.
+
+06 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  FY2018 HIGHLIGHTS  Group generated sales of US$2.2bn in FY2018, down 2.5% from prior year on higher Philippines and S&W  Asia sales offset by lower USA and Europe sales  The US business accounted for US$1.7bn or 75% of total sales  The Philippine business delivered record sales of US$333.8m, up 7% in peso terms  The S&W business in Asia generated record sales of US$106.1m, up 6%   Without one-off items, the Group generated: - EBITDA of US$165.0m, down 22%  - Net profit of US$12.0m, down 74% - Profitability impacted by unfavourable USDA and foodservice pricing in the USA, unfavourable sales  mix and significantly lower industrial pineapple juice concentrate pricing in the international market   Including one-off items, the Group generated: - EBITDA of US$102.3m, down 47%  - Net loss of US$36.5m from net profit of US$24.4m in prior year - One-off expenses in the USA were due to planned closure of factories to streamline operations and  become cost competitive, and write-off of deferred tax assets due to the change in Federal income  tax rate  Strengthened the US organisation since September 2017 with the appointment of a new CEO and CMO,  amongst others   Divested the underperforming Sager Creek business in USA  Delevered the balance sheet - Additional US$100m of Preference Shares issued - Purchased US$125m of loans at a discount which will result in significant interest and principal savings - Almost doubled operating cash flow to US$323m, primarily on lower inventory in USA - Gearing reduced to 2.4x equity from 2.9x in FY2017   Received Best Investor Relations (Gold) and Best Annual Report (Bronze) Awards from the Singapore  Corporate Awards 2017, 12th SCA award since 2010  Del Monte Philippines bagged the 7-Eleven Suppliers Excellence Award, and FieldFresh Foods, our JV in  India, received the Yum!
+
+Innovation Excellence Supplier Award Notes on DMPLs Results 1.
+
+Effective 1 May 2014, DMPL changed its financial yearend to 30 April instead of 31 December to align with that of its US subsidiary, Del Monte  Foods, Inc (DMFI).
+
+FY2018 runs from 1 May 2017 to 30 April 2018.
+
+2.
+
+DMPLs financial statements are based on IFRS.
+
+DMFIs financial statements were converted from US GAAP to IFRS for consolidation purposes.
+
+3.
+
+DMPLs effective stake in DMFI is 89.4%, hence the non-controlling interest (NCI) line in the P&L.
+
+Consolidated net income in the narratives are  net of NCI.
+
+4.
+
+DMPL adopted amendments to IAS 16 and IAS 41 (Agriculture: Bearer Plants in April 2017).
+
+The change in accounting standard was applied  retrospectively.
+
+This involved reclassifying a portion of biological assets to plant, property and equipment leading to much higher depreciation  expense.
+
+However, for EBITDA calculation, the Group retained the old calculation using the lower depreciation for comparability.
+
+07 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  FY2018 HIGHLIGHTS  Group generated sales of US$2.2bn in FY2018, down 2.5% from prior year on higher Philippines and S&W  Asia sales offset by lower USA and Europe sales  The US business accounted for US$1.7bn or 75% of total sales  The Philippine business delivered record sales of US$333.8m, up 7% in peso terms  The S&W business in Asia generated record sales of US$106.1m, up 6%   Without one-off items, the Group generated: - EBITDA of US$165.0m, down 22%  - Net profit of US$12.0m, down 74% - Profitability impacted by unfavourable USDA and foodservice pricing in the USA, unfavourable sales  mix and significantly lower industrial pineapple juice concentrate pricing in the international market   Including one-off items, the Group generated: - EBITDA of US$102.3m, down 47%  - Net loss of US$36.5m from net profit of US$24.4m in prior year - One-off expenses in the USA were due to planned closure of factories to streamline operations and  become cost competitive, and write-off of deferred tax assets due to the change in Federal income  tax rate  Strengthened the US organisation since September 2017 with the appointment of a new CEO and CMO,  amongst others   Divested the underperforming Sager Creek business in USA  Delevered the balance sheet - Additional US$100m of Preference Shares issued - Purchased US$125m of loans at a discount which will result in significant interest and principal savings - Almost doubled operating cash flow to US$323m, primarily on lower inventory in USA - Gearing reduced to 2.4x equity from 2.9x in FY2017   Received Best Investor Relations (Gold) and Best Annual Report (Bronze) Awards from the Singapore  Corporate Awards 2017, 12th SCA award since 2010  Del Monte Philippines bagged the 7-Eleven Suppliers Excellence Award, and FieldFresh Foods, our JV in  India, received the Yum!
+
+Innovation Excellence Supplier Award Notes on DMPLs Results 1.
+
+Effective 1 May 2014, DMPL changed its financial yearend to 30 April instead of 31 December to align with that of its US subsidiary, Del Monte  Foods, Inc (DMFI).
+
+FY2018 runs from 1 May 2017 to 30 April 2018.
+
+2.
+
+DMPLs financial statements are based on IFRS.
+
+DMFIs financial statements were converted from US GAAP to IFRS for consolidation purposes.
+
+3.
+
+DMPLs effective stake in DMFI is 89.4%, hence the non-controlling interest (NCI) line in the P&L.
+
+Consolidated net income in the narratives are  net of NCI.
+
+4.
+
+DMPL adopted amendments to IAS 16 and IAS 41 (Agriculture: Bearer Plants in April 2017).
+
+The change in accounting standard was applied  retrospectively.
+
+This involved reclassifying a portion of biological assets to plant, property and equipment leading to much higher depreciation  expense.
+
+However, for EBITDA calculation, the Group retained the old calculation using the lower depreciation for comparability.
+
+07 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  LETTER TO SHAREHOLDERS DEAR SHAREHOLDERS, In FY2018, we focused  on three key areas   deleveraging the balance  sheet, strengthening  our core business and  innovating products and  processes.
+
+DELEVERAGING THE  BALANCE SHEET Since our leveraged  acquisition of the  consumer food business  of Del Monte in the USA,  we have raised about  US$450 million of equity  for debt repayment, of  which we raised nearly  US$300 million in April  and December 2017 by  issuing the first US dollar  denominated Preference  Shares listed on the  Philippine Stock Exchange  (PSE).
+
+We raised US$150  million of capital through a  Rights Issue in 2015.
+
+Secondly, as of April 2018,  we purchased US$125  million of loans in the  USA that has yielded  significant principal and  interest savings.
+
+These  loans had been trading at  a substantial discount to  par value in the secondary  market and are the highest  interest-bearing credit  facility of the Group.
+
+Finally, our Group  significantly improved  our operating cash flow  to US$322.9 million in  FY2018 from US$187.1  million in the prior year,  primarily by reducing  inventory in the USA.
+
+As a result of all these  initiatives we have  executed, we reduced  our net debt at the end of  FY2018 to US$1.4 billion,  much lower than US$1.7  billion at the end of the  prior year.
+
+We ended FY2018 with a  net debt to equity ratio of  2.4x, a reduction from 2.9x  in the prior year, and more  significantly, 7.5x four  years ago post-acquisition.
+
+To further improve our  capital structure, we plan  to sell about 20% of our  stake in our wholly-owned  subsidiary, Del Monte  Philippines, Inc (DMPI),  through a public offering  on the PSE.
+
+Proceeds  will be used for loan  repayment which will  strengthen our balance  sheet further and also  improve our profitability  with lower interest  expense.
+
+This capital- raising will also unlock  the value of our subsidiary  and the Group as a  whole, creating immense  benefit to DMPL and our  shareholders, as well as  to DMPI.
+
+We deferred  the planned IPO in June  2018, as advised by our  underwriters, due to  volatile market conditions,  and will update the public  about the relaunch under  more favourable equity  markets.
+
+STRENGTHENING OUR  CORE BUSINESS With our US business  generating 75% of Group  sales, it is imperative  that we have the right  leadership to steer it  to profit and sustained  growth.
+
+In FY2018, we  strengthened our US  leadership team with  the appointment of a  new Del Monte Foods,  Inc (DMFI) CEO, Chief  Marketing Offi  cer, and  Heads of Operations and  Foodservice.
+
+MR JOSELITO D CAMPOS, JR Managing Director and CEO MR ROLANDO C GAPUD Executive Chairman 08 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  LETTER TO SHAREHOLDERS DEAR SHAREHOLDERS, In FY2018, we focused  on three key areas   deleveraging the balance  sheet, strengthening  our core business and  innovating products and  processes.
+
+DELEVERAGING THE  BALANCE SHEET Since our leveraged  acquisition of the  consumer food business  of Del Monte in the USA,  we have raised about  US$450 million of equity  for debt repayment, of  which we raised nearly  US$300 million in April  and December 2017 by  issuing the first US dollar  denominated Preference  Shares listed on the  Philippine Stock Exchange  (PSE).
+
+We raised US$150  million of capital through a  Rights Issue in 2015.
+
+Secondly, as of April 2018,  we purchased US$125  million of loans in the  USA that has yielded  significant principal and  interest savings.
+
+These  loans had been trading at  a substantial discount to  par value in the secondary  market and are the highest  interest-bearing credit  facility of the Group.
+
+Finally, our Group  significantly improved  our operating cash flow  to US$322.9 million in  FY2018 from US$187.1  million in the prior year,  primarily by reducing  inventory in the USA.
+
+As a result of all these  initiatives we have  executed, we reduced  our net debt at the end of  FY2018 to US$1.4 billion,  much lower than US$1.7  billion at the end of the  prior year.
+
+We ended FY2018 with a  net debt to equity ratio of  2.4x, a reduction from 2.9x  in the prior year, and more  significantly, 7.5x four  years ago post-acquisition.
+
+To further improve our  capital structure, we plan  to sell about 20% of our  stake in our wholly-owned  subsidiary, Del Monte  Philippines, Inc (DMPI),  through a public offering  on the PSE.
+
+Proceeds  will be used for loan  repayment which will  strengthen our balance  sheet further and also  improve our profitability  with lower interest  expense.
+
+This capital- raising will also unlock  the value of our subsidiary  and the Group as a  whole, creating immense  benefit to DMPL and our  shareholders, as well as  to DMPI.
+
+We deferred  the planned IPO in June  2018, as advised by our  underwriters, due to  volatile market conditions,  and will update the public  about the relaunch under  more favourable equity  markets.
+
+STRENGTHENING OUR  CORE BUSINESS With our US business  generating 75% of Group  sales, it is imperative  that we have the right  leadership to steer it  to profit and sustained  growth.
+
+In FY2018, we  strengthened our US  leadership team with  the appointment of a  new Del Monte Foods,  Inc (DMFI) CEO, Chief  Marketing Offi  cer, and  Heads of Operations and  Foodservice.
+
+MR JOSELITO D CAMPOS, JR Managing Director and CEO MR ROLANDO C GAPUD Executive Chairman 08 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  Our new DMFI CEO  Gregory Longstreet joined  us in September 2017.
+
+He has over 25 years of  work experience in the  food industry, having held  critical commercial roles  in sales, marketing and  general management,  including President and  CEO.
+
+Under this revitalised  US leadership team,  the company has  become more market- driven, innovative and  aligned with consumer  preferences, supported by  a strong operations team.
+
+As part of continuing  efforts to improve  operational excellence and  profitability, we divested  the non-performing Sager  Creek vegetable business  in September 2017, closed  its factory, and also shut  another plant in Indiana.
+
+As a result of these, we  booked one-off expenses  amounting to US$62.7  million in FY2018.
+
+These  planned closures will  lead to improvement in  margins starting FY2019  as well as generate  stronger cash flow  through lower inventories.
+
+We continue to review  our manufacturing and  distribution footprint in  the US.
+
+We also continued to  strengthen our core  business in Asia.
+
+Both  the Philippines and S&W  markets delivered record  sales in FY2018.
+
+INNOVATING  PRODUCTS AND  PROCESSES The Group has been  working on making  product innovation more  broad-based, and focusing  on real innovation, not  just mere renovation or  product line extension.
+
+Further to the successful  innovation in packaged  fruit and broth in the  US, we are working on  vegetable and tomato  innovation, especially  in packaging and more  value-added products  for the consumer, going  beyond traditional,  commoditised offerings.
+
+Under new leadership,  DMFI increased focus  on innovation in the  USA, significantly shifting  project focus from base  work to new product  development.
+
+We entered into a new  category of frozen  pineapple using Nice  Fruits breakthrough  technology which allows  fruits and vegetables  to be frozen for up to  three years and, once  thawed, still retain their  original properties just  like fresh.
+
+This award- winning technology is a  game-changer for both  our foodservice and retail  markets.
+
+We have started  selling in Japan with  excellent feedback, and  have sent the product  to the US, Europe,  Middle East and other  parts of Asia for market  development.
+
+Across our businesses  and markets, we need to  decommoditise the low- priced segment of our  product portfolio, whether  its canned products  in the US for retail and  foodservice, or pineapple  juice concentrate (PJC).
+
+While we have reduced  our PJC sales over time  and shifted capacity  to branded retail and  foodservice juices, we  have not yet completely  eliminated our exposure to  this commodity.
+
+Our innovation in the  Philippines will go beyond  focusing on beverage,  and will include more new  product launches in fruits  and culinary, focusing  on value-added and  differentiated offerings.
+
+Innovation goes beyond  launching new products,  includes our processes  and cuts across all  functions of our Company.
+
+1.
+
+Agriculture: We have  been transforming  our plantation in  the Philippines by  allocating more land  and resources to  growing more premium  MD2 or Sweet 16 fresh  pineapple to support  the growth of our  S&W business.
+
+We will  continue to leverage  precision agriculture  and technology, such  as drone technology,  to improve our  productivity.
+
+2.
+
+Production and Supply  Chain: Since FY2015,  we have closed four  plants in the US.
+
+We  continue to review our  manufacturing and  distribution footprint  in the US to improve  operational effi  ciency.
+
+We will leverage co- packing opportunities  and outsource product  innovation to improve  our agility and speed to  launch new products.
+
+We will be more  market-driven and not  supply-driven.
+
+3.
+
+Marketing: We will  market as a brand  leader and build brand  equity, and not just rely  on trade promotion,  especially in the US.
+
+In  fact, we are rationalising  trade promotion that  does not yield positive  returns, and are driving  spending effi  ciency.
+
+We  are also entering the  frozen food sector with  a patented and award- winning process from  Nice Fruit of Spain.
+
+This  process gives frozen  fruits and vegetables  a shelf life of three  years and retains the  characteristics of fresh  when thawed.
+
+4.
+
+Sales: We will no longer  focus solely on retail  centre-of-store, but  also on retail perimeter,  convenience stores  and foodservice.
+
+If  we do not disrupt our  traditional route to  market, somebody else  will.
+
+5.
+
+Digital: We will continue  to execute a strategy  where we partner with  e-commerce providers  in order to sell more  products online.
+
+Consumers have been  changing the way they  shop.
+
+Accordingly, we  will increase the share  of digital marketing.
+
+Millennials are spending  more time online versus  traditional media.
+
+6.
+
+Support functions:  We will continue to  outsource back-offi  ce  and support functions  beyond accounting and  IT to a cost-competitive  global service provider.
+
+We have reinforced our  cyber security systems.
+
+We will optimise  G&A costs across our  businesses.
+
+09 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  LETTER TO SHAREHOLDERS 7.
+
+Renewable energy: We  will leverage alternative,  renewable sources  of energy, amidst  rising energy costs.
+
+Our waste-to-energy  facility in the Philippines  reduced electricity  cost by over 20%,  reducing dependence  on more expensive, less  sustainable sources of  energy.
+
+These are examples of  how we innovate our  businesses and processes.
+
+We aspire to achieve  better results and cannot  do more of the same.
+
+We  need to cultivate a mindset  that is constantly seeking  more effi  cient and more  effective ways of achieving  better results.
+
+FY2018 RESULTS Our Group generated  sales of US$2.2 billion  in FY2018, down 2.5%  from prior year on higher  Philippines and S&W Asia  sales, offset by lower US  and Europe sales.
+
+Sales in the USA were  down by 2.5% largely due  to lower canned tomato  sales, and unfavourable  pricing in foodservice  and US Department  of Agriculture (USDA).
+
+We are deprioritising  low-margin, non-core  businesses of USDA and  private label, and focusing  on more value-added,  less commoditised  products both in retail and  foodservice.
+
+Our Philippine business  delivered record sales of  US$333.8 million, up 7% in  peso terms as all product  categories  packaged  fruit, beverage and culinary   posted higher sales,  while the fastest-growing  foodservice channel  continued to expand.
+
+Sales of the S&W business  in Asia and the Middle East  reached a record US$106.1  million, 6% higher due  to strong double-digit  growth of the S&W Sweet  16 fresh pineapple, mainly  in North Asia.
+
+Sales at our Indian joint  venture (JV) FieldFresh  Foods, which are equity  accounted, were US$76.2  million in FY2018 driven  by the 10% growth of  the Del Monte business.
+
+FieldFresh sustained its  positive EBITDA while our  Companys share of loss  in the JV was much lower  at only US$0.3 million,  nearing breakeven.
+
+Without one-off items, the  Group generated EBITDA  of US$165.0 million, down  22%, and net profit of  US$12.0 million, down  74%.
+
+Profitability was  impacted by unfavourable  USDA and foodservice  pricing in the USA,  unfavourable sales mix  and significantly lower  industrial PJC pricing in  the international market.
+
+The Group has been  shifting to more branded  consumer beverage given  the volatile nature of  industrial and commodity  PJC.
+
+Including one-off items,  the Group generated  EBITDA of US$102.3  million, down 47%, and  a net loss of US$36.5  million.
+
+One-off expenses  were incurred in the USA  due to the planned closure  of factories to streamline  operations and become  cost competitive, and  write-off of deferred tax  assets due to the change  in the US Federal income  tax rate.
+
+STRATEGY Del Monte is an iconic  brand, a household name  in the United States with  over 130 years of brand  heritage.
+
+However, as  with most canned food  products, we are faced  with structural declines  in the industry.
+
+Our  strategy must recognise  the fundamental changes  in the marketplace  and technology for  consumer goods.
+
+There are disruptions  everywhere - in the  centre store, distribution  channels, supply  chains, technological  developments, consumer  demographics and  behaviour.
+
+There has been a  fundamental shift in how  people purchase, prepare  and enjoy their food, and  the pace of change will  only intensify.
+
+Success will  require great execution  against growth strategy  areas.
+
+We must think outside  the can.
+
+We have been  introducing on-trend  products in growing  formats such as cups and  cartons.
+
+We will intensify  this with a medium-term  target of 20% of US sales  coming from innovation  from only 1% in FY2018.
+
+We will further develop  new categories of frozen  and snacking.
+
+We will  increase the share of  value-added products  in both retail and  foodservice.
+
+With the Fresh Del  Monte joint ventures  on chilled fruit snacks,  juices, guacamole and  avocado products, and  retail F&B, we formed the  Perimeter & Convenience  team in the US to unlock  growth opportunities in  the perimeter of store  and the rapidly growing  convenience store  channel.
+
+FY2018 was a year of  transition for our US  business marked by new  leadership, and an updated  long-range plan designed  to build its brands,  bring differentiated and  innovative products to  market, expand channels  of distribution and  optimise supply chain.
+
+Our business is well  positioned vis--vis  the ongoing consumer  trends for health, wellness  and nutrition.
+
+There is  latent market demand  to consume more fruits  and vegetables.
+
+We must  recognise and seize  Innovation distinguishes between a leader and a follower.
+
+- Steve Jobs, Apple 10 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  LETTER TO SHAREHOLDERS 7.
+
+Renewable energy: We  will leverage alternative,  renewable sources  of energy, amidst  rising energy costs.
+
+Our waste-to-energy  facility in the Philippines  reduced electricity  cost by over 20%,  reducing dependence  on more expensive, less  sustainable sources of  energy.
+
+These are examples of  how we innovate our  businesses and processes.
+
+We aspire to achieve  better results and cannot  do more of the same.
+
+We  need to cultivate a mindset  that is constantly seeking  more effi  cient and more  effective ways of achieving  better results.
+
+FY2018 RESULTS Our Group generated  sales of US$2.2 billion  in FY2018, down 2.5%  from prior year on higher  Philippines and S&W Asia  sales, offset by lower US  and Europe sales.
+
+Sales in the USA were  down by 2.5% largely due  to lower canned tomato  sales, and unfavourable  pricing in foodservice  and US Department  of Agriculture (USDA).
+
+We are deprioritising  low-margin, non-core  businesses of USDA and  private label, and focusing  on more value-added,  less commoditised  products both in retail and  foodservice.
+
+Our Philippine business  delivered record sales of  US$333.8 million, up 7% in  peso terms as all product  categories  packaged  fruit, beverage and culinary   posted higher sales,  while the fastest-growing  foodservice channel  continued to expand.
+
+Sales of the S&W business  in Asia and the Middle East  reached a record US$106.1  million, 6% higher due  to strong double-digit  growth of the S&W Sweet  16 fresh pineapple, mainly  in North Asia.
+
+Sales at our Indian joint  venture (JV) FieldFresh  Foods, which are equity  accounted, were US$76.2  million in FY2018 driven  by the 10% growth of  the Del Monte business.
+
+FieldFresh sustained its  positive EBITDA while our  Companys share of loss  in the JV was much lower  at only US$0.3 million,  nearing breakeven.
+
+Without one-off items, the  Group generated EBITDA  of US$165.0 million, down  22%, and net profit of  US$12.0 million, down  74%.
+
+Profitability was  impacted by unfavourable  USDA and foodservice  pricing in the USA,  unfavourable sales mix  and significantly lower  industrial PJC pricing in  the international market.
+
+The Group has been  shifting to more branded  consumer beverage given  the volatile nature of  industrial and commodity  PJC.
+
+Including one-off items,  the Group generated  EBITDA of US$102.3  million, down 47%, and  a net loss of US$36.5  million.
+
+One-off expenses  were incurred in the USA  due to the planned closure  of factories to streamline  operations and become  cost competitive, and  write-off of deferred tax  assets due to the change  in the US Federal income  tax rate.
+
+STRATEGY Del Monte is an iconic  brand, a household name  in the United States with  over 130 years of brand  heritage.
+
+However, as  with most canned food  products, we are faced  with structural declines  in the industry.
+
+Our  strategy must recognise  the fundamental changes  in the marketplace  and technology for  consumer goods.
+
+There are disruptions  everywhere - in the  centre store, distribution  channels, supply  chains, technological  developments, consumer  demographics and  behaviour.
+
+There has been a  fundamental shift in how  people purchase, prepare  and enjoy their food, and  the pace of change will  only intensify.
+
+Success will  require great execution  against growth strategy  areas.
+
+We must think outside  the can.
+
+We have been  introducing on-trend  products in growing  formats such as cups and  cartons.
+
+We will intensify  this with a medium-term  target of 20% of US sales  coming from innovation  from only 1% in FY2018.
+
+We will further develop  new categories of frozen  and snacking.
+
+We will  increase the share of  value-added products  in both retail and  foodservice.
+
+With the Fresh Del  Monte joint ventures  on chilled fruit snacks,  juices, guacamole and  avocado products, and  retail F&B, we formed the  Perimeter & Convenience  team in the US to unlock  growth opportunities in  the perimeter of store  and the rapidly growing  convenience store  channel.
+
+FY2018 was a year of  transition for our US  business marked by new  leadership, and an updated  long-range plan designed  to build its brands,  bring differentiated and  innovative products to  market, expand channels  of distribution and  optimise supply chain.
+
+Our business is well  positioned vis--vis  the ongoing consumer  trends for health, wellness  and nutrition.
+
+There is  latent market demand  to consume more fruits  and vegetables.
+
+We must  recognise and seize  Innovation distinguishes between a leader and a follower.
+
+- Steve Jobs, Apple 10 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  service restaurants and  major convenience  stores.
+
+Generating close  to 20% of total Philippine  sales, foodservice is the  fastest growing channel,  expanding by a robust 15%  to P3 billion in FY2018.
+
+INNOVATION DMPIs innovation  strategy has always been  consistent with its mission  of bringing to life health  and wellness.
+
+Its most  successful innovations  have always been  anchored on an in-depth  understanding of unmet  consumer needs, and  sometimes, unarticulated  consumer wants.
+
+The aggressive growth of  its beverage line in recent  years, for example, has  been anchored on new  news.
+
+By pivoting from just  pure, natural refreshment  into a consumer-relevant  functional benefit  platform, and highlighting  immunity, detoxification,  cholesterol management,  bone strength, weight  management and  rehydration across its  different beverage product  lines, Del Monte has been  able to build affi  nity and  relevance across a broader  base of consumers and  across an expanded  range of consumption  occasions.
+
+Packaging format  innovation has also been  central to DMPIs success.
+
+Its pioneering launch  of the Stand-Up Pouch  (SUP) formats in both  the culinary and fruits  category not only  transformed the industry  traditionally dependent  on expensive and bulky  can formats.
+
+Its significant  head start versus  competition also allowed  the brand to win big  behind more competitive  pricing, improved  dominant on-shelf impact  in the modern trade, and  expanded distribution in  the secondary and tertiary  trade channels.
+
+In more recent periods, its  launch of the 1-litre carton  format for beverages  reignited consumer  interest and generated  resurgent growth for  the multi-serve segment  which has been previously  decelerating due to  inconvenient and bulky  can formats.
+
+AWARDS AND  RECOGNITION The Philippine Market  team has been awarded  and recognised multiple  times, attesting to its  standards of excellence,  including the following  recognition: 7-Eleven  Philippines Best Supplier  of the Year Award, Most  Innovative Supplier  and Best in Account  Management; Robinsons  Gold Apple Award (Food  Division); and Tomato  Sauces Come Home  Campaign Tambuli Award.
+
+Del Monte Kitchenomics  has won numerous awards  over the years, including  Spark Awards for Media  Excellence: Gold for  Best App, Gold for Best  Use of Branded Content,  and Silver for Best Media  Solution.
+
+PHILIPPINE JOURNEY Philippine sales expanded  in the past three years to  P16.9 billion in FY2018 at  a compounded annual  growth of 8.1%, driven by  the 12.4% CAGR of the  foodservice channel and  9.2% CAGR of the culinary  category.
+
+During this  period, operating income  grew to P3.3 billion at a  CAGR of 10%.
+
+The Philippine market  drives the growth of  DMPI, the second largest  and most profitable  subsidiary of Del Monte  Pacific Ltd. Del Monte has  grown with the Philippine  economy with the trust  and loyalty of millions of  Filipino consumers.
+
+As the  economy continues to  grow, and the Philippine  market innovates with  new healthy products,  and expands into new  channels and market  segments, the company  is well positioned to grow  further.
+
+The Philippine  market is expected to  continue to deliver higher  revenue and profits with  its household Del Monte  brand.
+
+Del Monte Philippines bags the 7-Eleven Suppliers Excellence Award Marketing and Customer and Channel Development Teams during their immersion-teambuilding in Del Monte plantation, Bukidnon  30 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  SALES DMPL generated sales of  US$2.2 billion in FY2018,  lower by 2.5% versus the  prior year as higher sales  in the Philippines and S&W  in Asia and the Middle  East were offset by lower  sales in the United States  and Europe (on lower  volume of the cyclical  commodity pineapple  juice concentrate  (PJC) and significantly  lower pricing due to  oversupply situation in the  international market).
+
+USA DMPLs US subsidiary, Del  Monte Foods, Inc (DMFI),  generated sales of US$1.7  billion or 75.3% of Group  sales, lower by 2.5% versus  prior year largely due to  lower canned tomato  sales, and unfavourable  pricing in foodservice  and US Department of  Agriculture (USDA).
+
+The  key retail segments of  canned vegetable, canned  fruit, broth and plastic fruit  cup snacks all grew sales  for the full year despite  some category declines in  the canned segment.
+
+Del Monte Foods  increasingly offers  differentiated value  propositions through  meaningful product  improvements,  marketing campaigns,  and innovation as well  as effectively managing  pricing fundamentals and  executing well at the retail  channel.
+
+Two years ago, to meet  the unique snacking needs  of on-the-go adults, DMFI  introduced Del Monte  Fruit Refreshers, the  first-ever adult fruit cup,  bringing unexpected  fruit flavours and exciting  combinations in refreshing  fruit waters.
+
+Del Monte  Fruit Refreshers won  the 2017 Product of the  Year Award in the Healthy  Snacking category in  the USA.
+
+Last year, DMFI  expanded the adult fruit  cup snacking segment  with the launch of Del  Monte Fruit & Chia,  a category first which  combines luscious chunks  of fruit with wholesome  chia.
+
+This product  exceeded the companys  distribution and velocity  targets.
+
+Shortly thereafter, to  unlock the on-the-go  usage occasion, DMFI  introduced the grab- and-go fruit cup snacks  which are single-serve  portable cups with sporks  in the lid, for convenient  snacking on the go.
+
+It  comes in four amazing  flavours: Grapefruit &  Orange in Pomegranate  Water, Mandarin Orange in  Coconut Water, Peaches  in Strawberry Dragon  Fruit Chia and Pears in  Blackberry Chia.
+
+These new products  were launched to  address consumer  trends of healthy  living, snacking and  convenience.
+
+Nearly 50%  of US food consumption  is in snacking, hence, the  exciting potential in this  fruit cup segment.
+
+OPERATING AND  FINANCIAL REVIEW US$2.2 BILLION (BY GEOGRAPHY) US$2.2 BILLION (BY PRODUCT) DMPL FY2018 SALES Americas 75% Philippines 15% Asia ex-Philippines 8% Europe 2% Packaged Fruit and Vegetable 68% Culinary 18% Beverage 7% Fresh Fruit and Others 7% Rich flavour of College Inn in a  new organic variant Del Monte Fruit Cups for healthy living Del Monte Fruit & Chia, a  category first combining fruit  with wholesome chia 40 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  digit growth of the S&W  Sweet 16 fresh pineapple  mainly in China and the  Middle East.
+
+However,  the packaged segments  sales were lower due  to unfavourable sales  mix, and lower sales  of packaged pineapple  products in North Asia  due to cheaper-priced  competition from Thailand  and Indonesia.
+
+These  were partly offset by new  product launches in new  packaging formats in  North Asia and the Middle  East, and expansion into  Turkey.
+
+The fresh segment  accounted for 72%  of S&Ws total sales  in FY2018, while the  packaged segment  accounted for the balance  28%.
+
+S&Ws key initiatives in  FY2018:  New product launches: - S&W Fruit & Chia  cups in 3 variants  in NTUC Fairprice  Singapore and in  store chain 759 in  Hong Kong, as an  extension of the  success of the Del  Monte Fruit & Chia  from the USA - S&W pineapples in  revolutionary Clear  Can for pineapple  slices and chunks  in China and Korea.
+
+Clear Cans are  see-through plastic  containers with  metal lids, which  allow consumers  to see the product  and be assured of  its premium quality.
+
+This product won  the International  Innovation Award  from Enterprise Asia  on 2 December 2017  in Shanghai.
+
+- S&W 100% Pineapple  Juice in 1-litre carton  in China - Contadina brand  of pasta sauces  in stand-up- pouch aluminium  packaging in China.
+
+Contadina is a brand  name known to  American families  for 100 years and  is one of four key  brands that the  Group markets in  the USA.
+
+Contadina  takes to heart the  Mediterranean  philosophy of  cooking with  passion, using only  the finest ingredients  to deliver rich and  authentic flavours.
+
+The Group now  offers Contadina  products in China.
+
+- S&W Tomato and  Pasta Sauces from  the Philippines and  S&W Juice Drinks in  new aluminium cans  into certain markets  in the Middle East  New markets and  channels - Expansion into  Turkey, a new  market for packaged  products - Listing on Amazon  Prime Now  Singapore of S&W  packaged products - Introduced S&W  100% Pineapple  Juice into the mini  bars of Marina  Bay Sands hotel  in Singapore by  conducting launch  trial in about 200  rooms  Marketing programmes - Partnered with QSR  Jollibee fast food  chain in Singapore  for their redemption  programme via  stamps collection  by purchasing  Chickenjoy Value  Launch of S&W Fruit & Chia in  Singapore S&W 100% Pineapple Juice in 1-litre carton in China S&W pineapples in revolutionary Clear Can for  pineapple slices and chunks in China and Korea Contadina pasta sauces in China 43 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  was lower than last year  and its gross margin  decreased to 30.4% from  32.5% due to unfavourable  sales mix, significantly  lower PJC pricing in the  international market, and  the unfavourable impact  from revaluation of  biological assets.
+
+EBITDA AND NET PROFIT DMPLs EBITDA of  US$102.3 million was  lower by 47.3%.
+
+Half of the  decline was attributed to  the reasons mentioned  above that impacted  gross profit while half was  due to one-off expenses  amounting to US$29.1  million after deducting the  one-off gain.
+
+As part of the Groups  strategy to improve  operational excellence and  profitability, DMFI divested  its underperforming Sager  Creek vegetable business  in the second quarter of  FY2018.
+
+This involved  shutting the production  facility in Siloam Springs,  Arkansas.
+
+DMFI also shut  its Plymouth, Indiana  tomato production  facility in the third quarter  of FY2018 to improve  effi  ciency and streamline  operations.
+
+These resulted  in one-off expenses of  US$62.7 million pre-tax.
+
+The one-off expenses also  included a writedown of  Sager Creeks inventory  which the Group planned  to dispose of in FY2019.
+
+DMFI recorded a loss  of US$9.0 million at  EBITDA level.
+
+DMFI  successfully executed  the consolidation of its  Indiana plant that had just  been closed into its other  tomato facility in California  to improve the overall  utilisation of packaged  tomato assets.
+
+Please refer to the table  below for the schedule of  one-off items.
+
+Excluding one-off  expenses, the Groups  EBITDA would have been  US$165.0 million, 22.1%  lower versus the recurring  EBITDA of US$211.9  million last year.
+
+DMPLs net income  without DMFI was  US$54.8 million, down  NON-RECURRING EXPENSE/(INCOME) (IN US$M) FY2017 FY2018 BOOKED UNDER Closure of plants1 3.7 55.1 CGS, G&A and other expense  Gain due to loan purchase2 - (33.6) Interest income Severance and others  14.2 7.6 G&A expense Total expense (pre-tax basis) 17.9 29.1 Write-off of Deferred Tax Asset at DMFI (gross and net basis)  11.5 39.83 Tax expense Total (net of tax and non-controlling interest of 10.6%) 21.1 48.5 1  As part of its multiyear restructuring project to streamline operations and improve profitability, the Group closed three plants in the US in FY2017-2018.
+
+It also  shifted to a leaner organisation model in the US to drive channel growth and bring down costs in line with competition, hence, the severance costs.
+
+2  Please refer to the Cash Flow and Debt section in the next page for the purchase of loan in the USA.
+
+3  The Group wrote off US$39.8m of deferred tax assets at DMFI due to the change in Federal income tax rate from 35% to 21%.
+
+Other companies in the US with  deferred tax assets have similar write-offs due to the reduction in income tax rates.
+
+However, this should be more than offset by the reduced tax rates in future  years which will be substantial.
+
+Excluding one-off items, Gross Profit, EBITDA and Net Profit were lower than prior year due to unfavourable sales mix and  much lower PJC pricing DMPL FY2018 RECURRING PERFORMANCE NET SALES GROSS PROFIT 1.70 1.66 0.61 0.59 US$2.25bn FY17 US$2.20bn FY18 -2% DMFI DMPL ex-DMFI 296 259 199 179 US$499m FY17 US$443m FY18 -11% DMFI DMPL ex-DMFI EBITDA NET PROFIT 96 54 113 106 US$212m FY17 US$165m FY18 -22% DMFI DMPL ex-DMFI 81 3 40 69 -16 -83 -22 -14 US$45m FY17 US$12m FY18 -74% DMFI Aquisition Financing DMPL ex-DMFI Elimination 45 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  OPERATING AND  FINANCIAL REVIEW versus prior year periods  US$58.9 million mainly  from unfavourable sales  mix, reduced export sales  and much lower PJC  pricing, and unfavourable  impact from revaluation of  biological assets, amongst  others.
+
+The DMPL Group  generated a net loss  of US$36.5 million for  the full year of FY2018,  unfavourable versus prior  years net income of  US$24.4 million mainly  due to the one-off  expenses of US$48.5  million (post-tax basis).
+
+Excluding the one-off  expenses, the Groups  net income would have  been US$12.0 million,  lower versus the recurring  net income last year of  US$45.5 million mainly  due to higher marketing  investment in the USA to  reinvigorate the business  there in line with the  Groups long-range plan,  lower export sales and  significantly reduced PJC  pricing.
+
+FY2018 was a year of  transition for DMFI marked  by new leadership, and  a new long-range plan  designed to build brands,  bring differentiated and  innovative products to  market, optimise supply  chain, and expand  distribution channels.
+
+Several important  initiatives were launched  in FY2018 to improve  the health of the Groups  business in the USA and  reverse the past several  years of profit erosion:   Reduced Trade Spend  and Supply Chain Cost  Reduction projects   Deprioritised Margin  Dilutive Businesses:  Private label and USDA  reductions  Accelerated Innovation:  New products created  for centre store and  perimeter / frozen  Reduced and Idled  Excess Production: On  path to match supply  with demand  Focus on Branded  Share and Distribution  Growth: Retail and  Foodservice channels INVENTORIES DMPLs inventories  amounted to US$761.0  million as at 30 April 2018,  lower than the US$916.9  million as at 30 April 2017  mainly due to planned  reduction and divestiture  of Sager Creek.
+
+CAPEX Capital expenditures  (capex) were US$148.2  million in FY2018, slightly  higher than the US$145.0  million in the prior year.
+
+DMFI accounted for  US$37.3 million of Group  capex in FY2018, lower  than the US$44.6 million  in FY2017 due to plant  closures, while DMPL ex- DMFIs capex accounted  for US$110.8 million, up  from US$98.4 million in  FY2017 due to higher  spending on standing  crops.
+
+PREFERENCE SHARE  OFFERING In December 2017, the  Company successfully  completed the offering  and listing of its second  tranche of Preference  Shares (Series A-2)  in the Philippines  generating US$100  million in proceeds for a  combined US$300 million  approximately for 2017,  including the US$200  million (Series A-1)  raised in April 2017.
+
+The  Company used the net  proceeds to substantially  refinance a US$350 million  BDO Unibank, Inc loan  due in February 2019.
+
+The coupon rate for Series  A-1 is 6.625% while for  Series A-2 is 6.5% per  annum, both payable  semi-annually.
+
+The Preference Shares  are redeemable by the  Company at its option on  the fifth anniversary.
+
+CASH FLOW AND DEBT The Groups cash flow  from operations in FY2018  was US$322.9 million,  significantly higher versus  prior years cash flow of  US$187.1 million due to  better working capital  management, in particular  the reduction in DMFIs  inventory.
+
+Improvement in  cash flow from operations  contributed to the Groups  debt reduction efforts.
+
+As mentioned above, the  Company successfully  completed the offering  and listing of its second  tranche of Preference  Shares in the Philippines  generating approximately  US$100 million in  proceeds.
+
+As of the Companys fiscal  year end April 2018, it  has also completed the  purchase from certain  lenders US$124.9 million  worth of principal amount  A visit to the Philippine plantation and factory as part of new DMFI Leadership Teams orientation 46 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  (out of a total of US$260  million) of DMFIs Second  Lien Term Loans, which  have been trading at a  discount in the secondary  market.
+
+The Company  purchased the notes at a  30% discount to par value.
+
+The Second Lien Term  Loans are the highest- interest bearing loans  for DMFI with an interest  rate of LIBOR plus 7.25%  (currently 9.75% p.a.) and  will mature in August 2021.
+
+While the Second Lien  Term Loans that have  been acquired currently  remain on DMFIs balance  sheet as an obligation,  the intercompany  holdings of the loans and  related interest expense  is eliminated upon  consolidation of the DMPL  Group, thereby resulting in  a reduction of leverage for  the Group.
+
+This loan purchase is in  line with the Companys  plan to delever its balance  sheet and improve  the capital structure  and profitability of the  DMPL Group, through  a reduction in effective  interest expense of US$8- 10 million per annum  and savings from the  purchase price discount  for the Second Lien Term  Loans.
+
+The one-off gain of  US$33.6 million pre-tax or  US$25.3 million post-tax,  booked in FY2018 was a  result of principal savings  given the 30% purchase  discount.
+
+The Groups net debt (cash  and bank balances less  borrowings) amounted  to US$1.4 billion as at 30  April 2018, lower than the  US$1.7 billion as at 30 April  2017 due to payment of  borrowings, including the  partial extinguishment of  DMFIs Second Lien Term  Loans.
+
+Out of the total net debt  of US$1.4 billion, DMFI  accounted for US$806.4  million while DMPL  ex-DMFI accounted for  US$634.5 million.
+
+The Groups net debt to  equity ratio decreased to  237% from 290% in the  prior year.
+
+DIVIDENDS  In October 2017 and April  2018, respectively, the  Company paid dividends  to holders of the Series  A-1 Preference Shares at  the fixed rate of 6.625%  per annum, or equivalent  to US$0.33125 per Series  A-1 Preference Share for  the six-month period from  8 April 2017 to 7 October  2017 and US$0.33125 for  the six-month period 8  October 2017 to 7 April  2018.
+
+In April 2018, the  Company paid dividends  to holders of the Series  A-2 Preference Shares at  the fixed rate of 6.5% per  annum, or equivalent to  US$0.20403 per Series  A-2 Preference Share for  the 113-day period from  15 December 2017 to 7  April 2018.
+
+The Series A-2  Preference Shares were  listed on the Philippine  Stock Exchange on 15  December 2017.
+
+No dividends were  declared for Ordinary  shareholders due to the  net loss position of the  Company in FY2018.
+
+JOINT VENTURE WITH  FRESH DEL MONTE  PRODUCE INC In June 2017, DMFI  entered into joint ventures  with Fresh Del Monte  Produce Inc (NYSE: FDP)  in chilled products - juices,  prepared fruit snacks,  guacamole and avocado,  and new Del Monte- branded retail food and  beverage outlets modeled  after an already successful  FDP business in the Middle  East.
+
+These joint ventures  will initially focus on  the US market with the  potential for expansion  into other territories where  the companies businesses  complement each other.
+
+The Perimeter &  Convenience team was  newly created to unlock  growth opportunities,  via these joint ventures,  in the perimeter of store  and the rapidly growing  convenience store  channel.
+
+The team is developing  a range of value-added  prepared avocado  Preference Share Roadshow in the Philippines with COO Luis Alejandro on 28 November 2017 Remember my mantra: distinct.
+
+.
+
+.
+
+or extinct.
+
+- Tom Peters, Business Management Author 47 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  (out of a total of US$260  million) of DMFIs Second  Lien Term Loans, which  have been trading at a  discount in the secondary  market.
+
+The Company  purchased the notes at a  30% discount to par value.
+
+The Second Lien Term  Loans are the highest- interest bearing loans  for DMFI with an interest  rate of LIBOR plus 7.25%  (currently 9.75% p.a.) and  will mature in August 2021.
+
+While the Second Lien  Term Loans that have  been acquired currently  remain on DMFIs balance  sheet as an obligation,  the intercompany  holdings of the loans and  related interest expense  is eliminated upon  consolidation of the DMPL  Group, thereby resulting in  a reduction of leverage for  the Group.
+
+This loan purchase is in  line with the Companys  plan to delever its balance  sheet and improve  the capital structure  and profitability of the  DMPL Group, through  a reduction in effective  interest expense of US$8- 10 million per annum  and savings from the  purchase price discount  for the Second Lien Term  Loans.
+
+The one-off gain of  US$33.6 million pre-tax or  US$25.3 million post-tax,  booked in FY2018 was a  result of principal savings  given the 30% purchase  discount.
+
+The Groups net debt (cash  and bank balances less  borrowings) amounted  to US$1.4 billion as at 30  April 2018, lower than the  US$1.7 billion as at 30 April  2017 due to payment of  borrowings, including the  partial extinguishment of  DMFIs Second Lien Term  Loans.
+
+Out of the total net debt  of US$1.4 billion, DMFI  accounted for US$806.4  million while DMPL  ex-DMFI accounted for  US$634.5 million.
+
+The Groups net debt to  equity ratio decreased to  237% from 290% in the  prior year.
+
+DIVIDENDS  In October 2017 and April  2018, respectively, the  Company paid dividends  to holders of the Series  A-1 Preference Shares at  the fixed rate of 6.625%  per annum, or equivalent  to US$0.33125 per Series  A-1 Preference Share for  the six-month period from  8 April 2017 to 7 October  2017 and US$0.33125 for  the six-month period 8  October 2017 to 7 April  2018.
+
+In April 2018, the  Company paid dividends  to holders of the Series  A-2 Preference Shares at  the fixed rate of 6.5% per  annum, or equivalent to  US$0.20403 per Series  A-2 Preference Share for  the 113-day period from  15 December 2017 to 7  April 2018.
+
+The Series A-2  Preference Shares were  listed on the Philippine  Stock Exchange on 15  December 2017.
+
+No dividends were  declared for Ordinary  shareholders due to the  net loss position of the  Company in FY2018.
+
+JOINT VENTURE WITH  FRESH DEL MONTE  PRODUCE INC In June 2017, DMFI  entered into joint ventures  with Fresh Del Monte  Produce Inc (NYSE: FDP)  in chilled products - juices,  prepared fruit snacks,  guacamole and avocado,  and new Del Monte- branded retail food and  beverage outlets modeled  after an already successful  FDP business in the Middle  East.
+
+These joint ventures  will initially focus on  the US market with the  potential for expansion  into other territories where  the companies businesses  complement each other.
+
+The Perimeter &  Convenience team was  newly created to unlock  growth opportunities,  via these joint ventures,  in the perimeter of store  and the rapidly growing  convenience store  channel.
+
+The team is developing  a range of value-added  prepared avocado  Preference Share Roadshow in the Philippines with COO Luis Alejandro on 28 November 2017 Remember my mantra: distinct.
+
+.
+
+.
+
+or extinct.
+
+- Tom Peters, Business Management Author 47 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  BUSINESS  OUTLOOK Barring unforeseen circumstances,  DMPL is expected to be profitable in  FY2019.
+
+The Group will focus on  strengthening its core business,  while addressing and capitalising  on changing consumer trends.
+
+Innovation, through better product  and packaging development,  and improved agriculture and  manufacturing technology, will  continue to fuel growth initiatives.
+
+DMPLs entry into the frozen  pineapple segment through its joint  venture with Nice Fruit will be further  leveraged as the Group brings this  leading Nice Frozen Dry technology  and exciting product into new  markets and applications for both  retail and foodservice.
+
+Please refer  to pages 36-37 for more information  on Nice Fruit.
+
+There will be more cross-selling  across the different markets of the  Group, bringing products from the  USA to Asia and vice-versa, and  more digital opportunities including  e-commerce for its range of  products.
+
+It will remain vigilant in keeping  costs down, amidst an inflationary  environment and lower pineapple  juice concentrate pricing, through  supply chain synergies and G&A cost  optimisation.
+
+As part of the Groups deleveraging  plan, DMPL plans to sell  approximately 20% of its stake in  wholly-owned subsidiary, Del Monte  Philippines, Inc (DMPI), through a  public offering on the Philippine  Stock Exchange.
+
+The IPO was  deferred due to volatile market  conditions.
+
+The Company will  announce as and when it relaunches  this, subject to better market  conditions.
+
+USA The Group faces headwinds from  the long-term structural decline  in canned categories in which it  competes due to shifts in consumer  preferences, shifts in the way  American consumers are eating  and shopping, as well as shifts in  consumer demographics.
+
+Its commercial strategy will continue  to build on its Del Monte brand  heritage and will realign its business  with these consumer trends over  time.
+
+Its plan focuses on business  segments which are on-trend in  which it will invest in marketing to  strengthen its leadership positions,  pursue innovation to address  growing consumer needs for more  convenient, healthy and flavourful  solutions, as well as build its  distribution base in the growing store  perimeter and emerging channels.
+
+At  the same time, it will rationalise non- profitable businesses, in particular  the low-margin, non-branded  segment.
+
+With the four new joint ventures  with Fresh Del Monte Produce  Inc, the Group has the potential  to greatly extend the reach of the  Del Monte brand to the growing  store perimeter while allowing both  companies to optimise economies  of scale.
+
+Business plans are being  executed for chilled prepared fruit  snacks, while business plans are  being finalised for chilled juices,  guacamole and avocado products,  and Del Monte retail food and  beverage outlets.
+
+Over time, the product portfolio in  the USA will no longer just be mostly  canned but will have increasingly  meaningful contribution from non- can formats such as cups, cartons  and pouches.
+
+New categories  of frozen and snacking will be  further developed.
+
+It will no longer  focus solely on retail centre-of- store, but also on retail perimeter,  BUILDING A CULTURE OF INNOVATION DEL MONTE IN RECENT YEARS A CANNED FOOD COMPANY Focused on declining centre of the store categories  and mature retail channels Portfolio extended into high growth and high margin  categories sold across diverse channels Pricing and margin erosion driven by increased trade  promotion and non-strategic business Best in class revenue management focused on  strategically relevant categories  Bloated supply chain and manufacturing base that  exceeds demand Streamlined supply chain (internal and co-pack)  supporting base demand and growth platforms Limited innovation and investment to contemporise  brands (past decade) Revitalised and strengthened brands supported by  category-leading innovation and marketing  Significant decline in profits led by increased COGS  and lower volumes (past decade) A disciplined cost containment approach and a  commitment to pass through net inflation Lack of internal alignment, communication and  culture of continuous improvement A dynamic culture, cross functionally aligned on  growth, innovation, execution, and continuous  improvement  DEL MONTE OF THE FUTURE A CONSUMER-DRIVEN PACKAGED FOOD INNOVATOR 50 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  PRINCIPAL RISK SPECIFIC RISK WE FACE RISK MITIGATION Supply Chain  Optimisation The Groups success with planned  new products relies on the capabilities  of its supply chain.
+
+New platforms  necessitate changes in the Groups  business model.
+
+The use of co-manufacturers will  hasten the speed at which the Group  develops new products.
+
+Food safety  and compliance with the Food Safety  Modernization Act impact brands,  customer relationship and profitability.
+
+Executed the sale of the Sager Creek business  and the shutdown of the Arkansas plant and the  Plymouth plant in FY2018  Rationalise the Groups manufacturing and  distribution footprint  Implement a robust transformation programme  that instills ownership and accountability across  the supply chain to deliver the plans  Institute a robust co-manufacturer evaluation  system for product and process qualification,  monitor quality audit results and swiftly implement  corrective actions Financial  Leverage and  Capital Structure The Group has long-term acquisition  financing resulting in a leveraged  balance sheet.
+
+Risks would arise if there is a general  economic or industry slowdown that  may impact the Groups performance,  which subsequently may affect the  Groups ability to service its interest  and principal obligations.
+
+The Group successfully completed the offering  and listing of about US$300 million Preference  Shares in the Philippines in April and December  2017, with a coupon rate of 6.625% p.a. and 6.5%  p.a., respectively  Net proceeds were used to partly refinance the  US$350 million loan which was extended until  February 2019  The remaining balance of US$54 million of  Preference Shares is issuable within 2 years  DMPL purchased US$125 million of Second Lien  Term Loans (as of April 2018) at a 30% discount in  the secondary market providing the Group with  significant interest and principal savings   The Group also expects to meet its financial  obligation by generating more cash flows through  the following:   Improved cash flows in the US which  accounts for approximately 75% of Group  sales  Expected cost savings from selling, general  and administrative expense reduction  initiatives, managing working capital,  production levels, productivity enhancements  and operational effi  ciencies  Expected sales and profit growth in the Asian  business with the continuous expansion of the  S&W brand in Asia and the Middle East both  in packaged and fresh products and growth  of the Philippine business through its market  leadership position  The Group manages its interest rate risk by  swapping variables with fixed interest rates  The majority of the term acquisition loans in  the USA have already been swapped to fixed  rates in February 2014, which took effect  beginning February 2016 until 2021 Working Capital  Management There is excess inventory due to  challenges in demand planning, crop  tonnage, sales forecast and order  fulfillment.
+
+Improve demand planning and adjust production  plan to manage inventories and reduce wastage  and obsolescence  Conduct better oversight and monitoring of  inventories using warehouse management system  Execute the Groups strategic plans to improve  cash flow and profitability by strengthening the  core business and introducing new product  innovations and streamline operations 53 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  RISK  MANAGEMENT PRINCIPAL RISK SPECIFIC RISK WE FACE RISK MITIGATION Tax In the Philippines, the government  passed a new regulation, Tax Reform  for Acceleration and Inclusion (TRAIN),  which applies a tax on beverages with  added sugar, petroleum products and  coal, among others, which impact the  cost of operation.
+
+Sixty percent of the  Groups beverage products, namely  100% fruit and vegetable juices, are  not subject to this tax.
+
+The Group may lose certain tax  incentives should it fail to comply with  the conditions for the tax incentive.
+
+The Group may be exposed to  additional losses from write-offs  of deferred tax credits should the  operations in the US continue to incur  losses.
+
+Implement plans to reduce the impact of the  sugar tax by spreading the price adjustment across  categories in order to temper the beverage price  adjustment and protect consumption and volume  Optimise production of 100% juice which is  exempt from the sugar tax and work on product  reformulation to mitigate the impact  Work on cost savings from sales, general and  administrative expense reduction initiatives,  management of working capital, production  levels, productivity enhancements and operational  effi  ciencies  Implement measures to comply with conditions  related to the tax incentive  Proper execution of the Groups strategic and  annual operating plan to meet its projected  income in the US Operations As an integrated producer of packaged  and fresh fruit products for the  world market, the Groups earnings  are inevitably subject to certain  other risk factors, which include  general economic and business  conditions, change in business  strategy or development plans,  international business operations,  production effi  ciencies, input costs  and availability, disruption of logistics  and transportation facilities, litigious  counterparties, insurgent activities and  changes in government regulations,  including, but not limited to,  environmental regulations.
+
+Develop and execute a long-term strategic plan  and annual operating plan supported by a business  continuity plan, risk management and a corporate  sustainability programme  Pursue productivity-enhancing and effi  ciency- generating work practices and capital projects  Continue to comply with new legislations  on the environment, regulatory, taxation and  labour that affect operations and proactively  develop strategies to reduce the impact of these  regulations   Manage security risks in its operating units in the  Philippines by strengthening security measures  and improve its stakeholder relations in the  communities where it operates Environmental  Risks Production output is subject to  certain risk factors relating to weather  conditions, catastrophes, crop yields,  crop diseases, contract growers and  service providers performance and  leasehold arrangements.
+
+There is no assurance that natural  catastrophes or climate change will  not materially disrupt the Groups  business operations in the future or  that the Group is fully capable to deal  with these situations with respect to  all the damages and economic losses  resulting from these risks.
+
+Our business in the US operates and  contractually grows food in the United  States where water availability may  be at risk due to drought and limited  water supply, new regulations on fresh  water use and grey water discharges  and increasing cost.
+
+The Group develops and executes a long- term strategic plan and annual operating plan,  supported by a contingency plan and risk  management measures  The Group also has in place disaster recovery  plans and business continuity plans to mitigate  these incidents and has implemented programmes  and initiatives to mitigate the effects of climate  change  The Group has Good Agricultural Practices  (G.A.P.) certifications and complies with proven  agricultural practices  To manage any impact from heavy rainfall and  floods, plantings are done in various locations  to minimise tonnage loss, and towing units have  been augmented to ensure continuity of harvest  during wet conditions  The Group also works with insurance brokers to  assess the risk exposure and secure adequate  insurance coverage, if cost effective 54 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  pinpoints the specific technical  and operational skill set each team  member must develop to deliver  high performance.
+
+NURTURING NATURE The success of our business is  intertwined with responsible  stewardship of nature which is the  source of our products and profits.
+
+As such, we continuously build on  our agricultural knowledge and  experience and communicate  DMFIs and DMPIs Environmental  Policy to our stakeholders as we  support resource effi  cient processes  to enhance our environmental  footprint.
+
+DMFIs and DMPIs Environmental  Policy is updated periodically to  reflect new advances in best practice  and to better serve the Groups  operating needs.
+
+This policy is  posted in facilities, communicated  to facility management and also  incorporated in the training for  environmental and operations staff.
+
+DMFI is also an active participant  in the Stewardship Index for  Specialty Crops, a multi-stakeholder  organisation piloting on-farm  metrics with growers to track and  monitor agricultural inputs to drive  continuous improvement and gained  effi  ciencies.
+
+Our crops are locally sourced and  travel less than an average of 160  kilometres from the field to the  manufacturing gate and an average  of 560 kilometres from distribution  centre to retailer.
+
+DMFI is unique compared to our  competitors because we have our  own dedicated agricultural Seed  Operations Research Team.
+
+The  team provides growers with majority  of our seeds for certain crops,  including the Blue Lake, Romano  and wax beans and other crops such  as peas, corn and spinach.
+
+We are  able to generate a higher yield for  our corn and green beans.
+
+In the Philippines, the foundation  of DMPIs sustainable agriculture  practices is effi  cient land use.
+
+Ecologically-minded land use  management was carried on from  our pioneers who started farming in  1926.
+
+These pioneers did not clear  forests to give way to pineapple  fields.
+
+Additional land acquired  later by our pioneers was already  cultivated for other crops.
+
+Across over 90 years of operations,  our land use practices are mainly  aimed at improving plantation  yield through ecologically friendly  land preparation, plant disease  management and chemical  application, effi  cient water sourcing  and drainage and use of sustainable  planting materials.
+
+Peach harvest in California, USA Pineapple plantation in Bukidnon, Philippines Pineapple field in Bukidnon, Philippines 67 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018  91 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 CORPORATE   GOVERNANCE Principle 14  Shareholder Rights The Group treats all shareholders fairly and equitably, and recognises, protects and facilitates the exercise of  shareholders rights.
+
+Moreover, the Group continually reviews and updates such governance arrangements.
+
+Shareholders are informed of changes in the Companys business that are likely to materially affect the value of the  Companys shares.
+
+The Group ensures that shareholders have the opportunity to participate effectively in, and vote at GMs. Shareholders  are informed of the rules and voting procedures that govern AGMs and GMs. The results of the votes taken during the  AGM or GM are disclosed and made available to the public on the same day, and likewise uploaded on the Companys  website within five days from the date of the meeting.
+
+The Companys Memorandum and Articles of Association do not allow corporations which provide nominee or  custodial services to appoint more than two proxies to vote.
+
+At present, only the Central Depository (Pte) Ltd is  permitted to appoint more than two proxies.
+
+The Company does, however, allow non-shareholders to attend the  AGM or GM as observers.
+
+The Companys dividend payment policy for Ordinary Shares has been to distribute a minimum of 33% of full year  profit.
+
+For FY2018, the Company did not declare dividends to Ordinary shareholders due to its net loss position.
+
+The dividend policy and terms, including the declaration dates from previous years, are provided in the Companys  website.
+
+The Company endeavours to pay dividends within 30 days after declaration date.
+
+Principle 15  Communication with Shareholders/Investor Relations The Group is committed to engaging its stakeholders and providing easy and regular access to timely, effective,  fair, pertinent and accurate information about the Company.
+
+The Group has an Investor Relations policy that clearly  articulates and promotes this.
+
+The Companys Investor Relations is handled in-house.
+
+It has a dedicated Investor Relations team comprising the  Chief Corporate Officer and Investor Relations Manager who regularly engage and communicate with the investing  community.
+
+Various IR and communication modes are employed by the Company to provide information and also  to gather feedback and address questions and concerns.
+
+Insights and feedback gathered are taken and, where  appropriate, acted upon.
+
+The Company strengthens its relationship with the investing community and solicits their views through one-on-one  meetings, participation in at least two annual conferences, forums and road shows organised by stock broking and  investing companies.
+
+Between May 2017 and April 2018, the Company met with 84 investors, brokers and lenders,  including conference calls, and did a roadshow for the second tranche of the Companys Preference Shares offering.
+
+To maintain an open channel of communication, the Company also has an email alert system whereby emails on its  developments and updates are sent out to investors.
+
+Such information is also announced to the public via the SGX-ST  and PSE portals.
+
+The Company has organised visits to its plantation and cannery, as well as trade checks, for the investing community,  providing them with a first-hand appreciation and understanding of the Groups operations and markets.
+
+The Company provides descriptive and detailed disclosures whenever possible and avoids boilerplate disclosures, and  immediately announces any material information on the Company or any of its subsidiaries or associated companies.
+
+105 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 INDEPENDENT   AUDITORS REPORT to the members of Del Monte Pacific Limited Key Audit Matters (Contd) Key audit matter How our audit addressed the matter Fair value of biological assets  The gain on changes in the fair value of produce prior  to harvest and harvested produce amounted to US$45.1  million for the year ended 30 April 2018.
+
+The valuation of biological assets was significant to our  audit because the estimation process is complex, involves  significant management estimate, and is based on  assumptions that can be affected by natural phenomena.
+
+The key assumptions for the fair value of harvested  produce include selling prices and gross margins.
+
+The key  assumptions for the fair value of produce prior to harvest  include future selling prices, gross margin, estimated  tonnage of harvests and future growing costs.
+
+Refer to Note 11 to the financial statements.
+
+We obtained an understanding of managements fair value  measurement methodology and their process in valuing  the biological assets.
+
+We tested the key assumptions  used in the valuation, which include selling prices and  gross margin for harvested produce; and future selling  prices, gross margin, estimated tonnage of harvests and  future growing costs for produce prior to harvest, by  comparing them to external data such as selling prices in  the principal market and historical information.
+
+We also  assessed the methodology used in estimating the fair  value.
+
+We also assessed the adequacy of the related disclosures  on the assumptions underlying the measurement of  these biological assets.
+
+Recoverability of goodwill and indefinite life trademarks As at 30 April 2018, goodwill is carried at US$203.4  million, which represents 14% of the total non-current  assets.
+
+Indefinite life trademarks were carried at US$408.0  million, which represents 27% of the total non-current  assets.
+
+(a) Goodwill and indefinite life trademarks allocated to  Del Monte Foods, Inc. and its subsidiaries The Groups goodwill is allocated to a Cash Generating  Unit (CGU), Del Monte Foods, Inc. and its subsidiaries.
+
+Included within the CGU are the indefinite life trademarks  Del Monte and College Inn in the United States of  America (USA) amounting to US$394.0 million.
+
+The  Group uses the value in use calculation to estimate the  recoverable value of the CGU.
+
+The annual impairment test is significant to our audit  because the valuation process is complex, involves  significant management judgement, and is based on  certain key assumptions, such as cash flow projections  covering a five-year period and the long-term growth  rate and discount rate of the CGU.
+
+Refer to Note 8 to the financial statements.
+
+We obtained an understanding of the Groups impairment  assessment process and the related controls.
+
+We tested  the reasonableness of the key assumptions, which include  revenue growth, gross margin and EBITDA margin,  discount rate, long-term growth rate by comparing  them to available market and historical information and  management plans.
+
+Given the complexity of the valuation process, our  internal valuation specialist was involved in performing  some of these procedures.
+
+We also focused on the adequacy of the Groups  disclosures in Note 8 to the financial statements,  about those assumptions to which the outcome of the  impairment test was most sensitive, that is, those that  have the most significant effect on the determination of  the recoverable amount of the CGU.
+
+106 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 INDEPENDENT   AUDITORS REPORT to the members of Del Monte Pacific Limited Key Audit Matters (Contd) Key audit matter How our audit addressed the matter (b) Other indefinite life trademarks As at 30 April 2018, other indefinite life trademarks  were carried at US$14.0 million which comprises of the  following trademarks: Del Monte in the Philippines  and India, S&W in Asia, and Todays in the Philippines.
+
+The annual impairment tests are significant to our audit  because the valuation process is complex, involves  significant management judgment and estimates based  on assumptions that can be affected by future market  and economic conditions as well as trademark and  royalty rates in the market.
+
+The Group used the Royalty Savings Approach in valuing  its Philippines and Asia S&W trademarks.
+
+This approach  relies on the forecasted revenue for the related brand or  trademark and applies the royalty rates in the market.
+
+For  the India trademark, the Group used the discounted cash  flow of the related CGU.
+
+This method relies on forecasted  financial results which uses significant assumptions such  as revenue growth rates, EBITDA and long-term margins,  terminal value growth rate and discount rate.
+
+Refer to Notes 7 and 8 to the financial statements.
+
+We assessed the reasonableness of the forecasted  revenue and royalty rates used to derive the recoverable  value of the brand and trademarks by comparing against  available market and historical information.
+
+We also evaluated the significant assumptions used in  the financial forecast of the CGU, which include revenue  growth rates, EBITDA and long-term margins, terminal  value growth rate and discount rate, by comparing them  against available market information, historical data and  management plans.
+
+Given the complexity of the valuation process, our  internal specialist was involved in performing some of  these procedures.
+
+Recoverability of deferred tax assets As at 30 April 2018, the Group has recognized net deferred  tax assets of US$79.8 million, which includes deferred tax  assets recognized by Del Monte Foods, Inc., a subsidiary  in the United States of America (USA), amounting to  US$77.8 million.
+
+The recoverability of the deferred tax asset was significant  to our audit because it involves significant management  judgment and is based on assumptions that are affected  by future market or economic conditions.
+
+The key  assumptions in the taxable income forecast include  revenue growth rates and gross and EBITDA margins.
+
+Refer to Note 9 to the financial statements.
+
+We assessed the recognition of deferred tax assets by  comparing it to the taxable income forecast.
+
+We tested  the key assumptions in the taxable income forecast such  as revenue growth rates and gross and EBITDA margins  against available market information, management plans,  historical performance and industry/market outlook.
+
+We  compared the consistency of management's taxable  income forecasts with those included in the budget  approved by the Board of Directors.
+
+We assessed the robustness of managements forecasting  process by comparing the actual results of the subsidiary  against the forecast used in prior year.
+
+We involved our internal specialist in reviewing the  temporary differences.
+
+107 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 INDEPENDENT   AUDITORS REPORT to the members of Del Monte Pacific Limited Key Audit Matters (Contd) Key audit matter How our audit addressed the matter Valuation of defined benefit liability and asset The Group has defined benefit plans in the Philippines and  the USA, giving rise to defined benefit liability of US$65.1  million and pension asset amounting to US$10.6 million  as at 30 April 2018 which are measured using projected  unit credit valuation methods.
+
+We considered this to be a key audit matter because of  the magnitude of the amounts, management's judgement  in the use of assumptions such as future salary increases,  discount rates, mortality rates and health care trends and  technical expertise required to determine these amounts.
+
+Refer to Note 21 to the financial statements.
+
+Our procedures included, among others, involving our  internal specialist to assist us in reviewing the valuation  methodology and the actuarial and demographic  assumptions used by management to value the  Group's various pension obligations.
+
+We evaluated the  competence, capabilities and objectivity of managements  specialist.
+
+We evaluated the key actuarial assumptions such as  future salary increases, discount rates, mortality rates and  health care trends by comparing them to market data  and historical information.
+
+We tested the employees payroll data on a sample basis,  and reviewed the reconciliation of the membership  census data used in the actuarial models to the payroll  data of the Group.
+
+OTHER INFORMATION Management is responsible for the other information.
+
+The other information comprises the Groups 2018 Annual  Report, but does not include the financial statements and our auditors report thereon.
+
+The Groups 2018 Annual  Report is expected to be made available to us after the date of this auditors report.
+
+Our opinion on the financial statements does not cover the other information and we will not express any form of  assurance conclusion thereon.
+
+In connection with our audit of the financial statements, our responsibility is to read the other information and,  in doing so, consider whether the other information is materially inconsistent with the financial statements or our  knowledge obtained in the audit or otherwise appears to be materially misstated.
+
+When we read the Groups 2018 Annual Report, if we conclude that there is a material misstatement therein, we are  required to communicate the matter to the directors and take appropriate actions in accordance with ISAs.
+
+RESPONSIBILITIES OF MANAGEMENT AND DIRECTORS FOR THE FINANCIAL STATEMENTS Management is responsible for the preparation and fair presentation of the financial statements in accordance with  IFRSs, and for such internal control as management determines is necessary to enable the preparation of financial  statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the financial statements, management is responsible for assessing the Groups and Companys ability  to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going  concern basis of accounting unless management either intends to liquidate the Group or to cease operations, or has  no realistic alternative but to do so.
+
+The directors responsibilities include overseeing the Groups financial reporting process.
+
+107 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 INDEPENDENT   AUDITORS REPORT to the members of Del Monte Pacific Limited Key Audit Matters (Contd) Key audit matter How our audit addressed the matter Valuation of defined benefit liability and asset The Group has defined benefit plans in the Philippines and  the USA, giving rise to defined benefit liability of US$65.1  million and pension asset amounting to US$10.6 million  as at 30 April 2018 which are measured using projected  unit credit valuation methods.
+
+We considered this to be a key audit matter because of  the magnitude of the amounts, management's judgement  in the use of assumptions such as future salary increases,  discount rates, mortality rates and health care trends and  technical expertise required to determine these amounts.
+
+Refer to Note 21 to the financial statements.
+
+Our procedures included, among others, involving our  internal specialist to assist us in reviewing the valuation  methodology and the actuarial and demographic  assumptions used by management to value the  Group's various pension obligations.
+
+We evaluated the  competence, capabilities and objectivity of managements  specialist.
+
+We evaluated the key actuarial assumptions such as  future salary increases, discount rates, mortality rates and  health care trends by comparing them to market data  and historical information.
+
+We tested the employees payroll data on a sample basis,  and reviewed the reconciliation of the membership  census data used in the actuarial models to the payroll  data of the Group.
+
+OTHER INFORMATION Management is responsible for the other information.
+
+The other information comprises the Groups 2018 Annual  Report, but does not include the financial statements and our auditors report thereon.
+
+The Groups 2018 Annual  Report is expected to be made available to us after the date of this auditors report.
+
+Our opinion on the financial statements does not cover the other information and we will not express any form of  assurance conclusion thereon.
+
+In connection with our audit of the financial statements, our responsibility is to read the other information and,  in doing so, consider whether the other information is materially inconsistent with the financial statements or our  knowledge obtained in the audit or otherwise appears to be materially misstated.
+
+When we read the Groups 2018 Annual Report, if we conclude that there is a material misstatement therein, we are  required to communicate the matter to the directors and take appropriate actions in accordance with ISAs.
+
+RESPONSIBILITIES OF MANAGEMENT AND DIRECTORS FOR THE FINANCIAL STATEMENTS Management is responsible for the preparation and fair presentation of the financial statements in accordance with  IFRSs, and for such internal control as management determines is necessary to enable the preparation of financial  statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the financial statements, management is responsible for assessing the Groups and Companys ability  to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going  concern basis of accounting unless management either intends to liquidate the Group or to cease operations, or has  no realistic alternative but to do so.
+
+The directors responsibilities include overseeing the Groups financial reporting process.
+
+108 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 INDEPENDENT   AUDITORS REPORT to the members of Del Monte Pacific Limited AUDITORS RESPONSIBILITIES FOR THE AUDIT OF THE FINANCIAL STATEMENTS Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from  material misstatement, whether due to fraud or error, and to issue an auditors report that includes our opinion.
+
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with  ISAs will always detect a material misstatement when it exists.
+
+Misstatements can arise from fraud or error and are  considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic  decisions of users taken on the basis of these financial statements.
+
+As part of an audit in accordance with ISAs, we exercise professional judgement and maintain professional skepticism  throughout the audit.
+
+We also:   Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error,  design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and  appropriate to provide a basis for our opinion.
+
+The risk of not detecting a material misstatement resulting from  fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions,  misrepresentations, or the override of internal control.
+
+Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are  appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the  Groups internal control.
+
+Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and  related disclosures made by management.
+
+Conclude on the appropriateness of managements use of the going concern basis of accounting and, based  on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may  cast significant doubt on the Groups and Companys ability to continue as a going concern.
+
+If we conclude  that a material uncertainty exists, we are required to draw attention in our auditors report to the related  disclosures in the financial statements or, if such disclosures are inadequate, to modify our opinion.
+
+Our  conclusions are based on the audit evidence obtained up to the date of our auditors report.
+
+However, future  events or conditions may cause the Group and Company to cease to continue as a going concern.
+
+Evaluate the overall presentation, structure and content of the financial statements, including the disclosures,  and whether the financial statements represent the underlying transactions and events in a manner that  achieves fair presentation.
+
+Obtain sufficient appropriate audit evidence regarding the financial information of the entities or business  activities within the Group to express an opinion on the consolidated financial statements.
+
+We are responsible  for the direction, supervision and performance of the group audit.
+
+We remain solely responsible for our audit  opinion.
+
+We communicate with the directors regarding, among other matters, the planned scope and timing of the audit and  significant audit findings, including any significant deficiencies in internal control that we identify during our audit.
+
+We also provide the directors with a statement that we have complied with relevant ethical requirements regarding  independence, and to communicate with them all relationships and other matters that may reasonably be thought to  bear on our independence, and where applicable, related safeguards.
+
+109 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 INDEPENDENT   AUDITORS REPORT to the members of Del Monte Pacific Limited AUDITORS RESPONSIBILITIES FOR THE AUDIT OF THE FINANCIAL STATEMENTS (CONTD) From the matters communicated with the directors, we determine those matters that were of most significance in  the audit of the financial statements of the current period and are therefore the key audit matters.
+
+We describe these  matters in our auditors report unless law or regulation precludes public disclosure about the matter or when, in  extremely rare circumstances, we determine that a matter should not be communicated in our report because the  adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such  communication.
+
+The partner in charge of the audit resulting in this independent auditors report is Alvin Phua.
+
+Ernst & Young LLP Public Accountants and  Chartered Accountants Singapore 13 July 2018  131 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 4.
+
+SIGNIFICANT ACCOUNTING POLICIES (CONTD) 4.2  Foreign currency (contd) (ii)  Foreign operations The assets and liabilities of foreign operations, including goodwill and fair value adjustments arising  on acquisition, are translated to US Dollars at exchange rates at the reporting date.
+
+The income and  expenses of foreign operations are translated to US Dollars using monthly average exchange rates.
+
+Foreign currency differences are recognised in other comprehensive income and presented in the  foreign currency translation reserve (translation reserve) in equity.
+
+However, if the operation is a  non-wholly-owned subsidiary, then the relevant proportionate share of the translation difference is  allocated to the non-controlling interests.
+
+When a foreign operation is disposed of such that control, or  joint control is lost, the cumulative amount in the translation reserve related to that foreign operation  is reclassified to profit or loss as part of the gain or loss on disposal.
+
+When the group disposes of only  part of its interest in a subsidiary that includes a foreign operation while retaining control, the relevant  proportion of the cumulative amount is reattributed to non-controlling interests.
+
+When the Group  disposes of only part of its investment in joint venture that includes a foreign operation while retaining  significant influence or joint control, the relevant proportion of the cumulative amount is reclassified to  the income statement.
+
+When the settlement of a monetary item that is a receivable from or payable to a foreign operation  is neither planned nor likely in the foreseeable future, foreign exchange gains and losses arising from  such a monetary item are considered to form part of a net investment in a foreign operation and are  recognised in other comprehensive income, and presented in the translation reserve in equity.
+
+4.3   Current versus noncurrent classification  The Group presents assets and liabilities in the statement of financial position based on current and noncurrent  classification.
+
+An asset is current when:   It is expected to be realised or intended to be sold or consumed in the normal operating cycle   It is held primarily for the purpose of trading   It is expected to be realised within 12 months after the reporting period, or   It is cash or cash equivalent unless restricted from being exchanged or used to settle a liability for at  least 12 months after the reporting period.
+
+All other assets are classified as noncurrent.
+
+A liability is current when:   It is expected to be settled in the normal operating cycle   It is held primarily for the purpose of trading   It is due to be settled within 12 months after the reporting period, or   There is no unconditional right to defer the settlement of the liability for at least 12 months after the  reporting period.
+
+The Group classifies all other liabilities as noncurrent.
+
+Deferred tax assets and deferred tax liabilities are classified as noncurrent assets and liabilities, respectively.
+
+139 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 4.
+
+SIGNIFICANT ACCOUNTING POLICIES (CONTD) 4.9  Inventories Inventories are measured at the lower of cost and net realisable value.
+
+The cost of raw materials, packaging materials, traded goods, cost of production materials and storeroom  items is based on the FIFO (First-in First-out) method.
+
+Cost of processed inventories comprises all costs of  purchase, costs of conversion and other costs incurred in bringing the inventories to their present location  and condition.
+
+The costs of conversion include costs directly related to the units of production, and a systematic allocation of  fixed and variable production overheads that are incurred in converting materials into finished goods.
+
+The allocation of fixed production overheads is based on the normal capacity of the production facilities.
+
+Normal capacity is the production expected to be achieved on average for the periods or seasons under  normal circumstances, taking into account the seasonal business cycle of the Group.
+
+Net realisable value is the estimated selling price in the ordinary course of business, less the estimated costs  of completion and selling expenses.
+
+The cost of growing crops transferred from biological assets is its fair value less cost to sell at the date of  harvest.
+
+4.10  Cash equivalents Cash equivalents are short-term, highly liquid investments that are readily convertible to known amount of  cash with original maturities of three months or less that are subject to insignificant risk of change in value.
+
+4.11  Impairment (i)  Non-derivative financial assets  A financial asset not classified at fair value through profit or loss is assessed at each reporting date to  determine whether there is objective evidence that it is impaired.
+
+A financial asset is impaired if objective  evidence indicates that a loss event(s) have occurred after the initial recognition of the asset, and that  the loss event(s) had a negative effect on the estimated future cash flows of that asset that can be  estimated reliably.
+
+Objective evidence that financial assets are impaired can include default or delinquency by a debtor,  restructuring of an amount due to the Group on terms that the Group would not consider otherwise,  indications that a debtor or issuer will enter bankruptcy, adverse changes in the payment status of  borrowers or issuers in the Group, or economic conditions that correlate with defaults.
+
+Loans and receivables The Group considers evidence of impairment for loans and receivables at both a specific asset and  collective level.
+
+All individually significant loans and receivables are assessed for specific impairment.
+
+All  individually significant receivables found not to be specifically impaired are then collectively assessed  for any impairment that has been incurred but not yet identified.
+
+Loans and receivables that are not individually significant are collectively assessed for impairment by  grouping together loans and receivables with similar risk characteristics.
+
+142 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 4.
+
+SIGNIFICANT ACCOUNTING POLICIES (CONTD) 4.12  Noncurrent assets held for sale Noncurrent assets held for sale are classified as held-for-sale if it is highly probable that they will be recovered  primarily through sale rather than through continuing use.
+
+Such assets are measured at the lower of their  carrying amount and fair value less cost to sell.
+
+Impairment losses on initial classification as held-for-sale  and subsequent gains and losses on re-measurement are recognised in the consolidated income statement.
+
+Once classified as held-for-sale, property, plant and equipment are no longer depreciated.
+
+If it is no longer  highly probable that an asset will be recovered primarily through sale, the asset ceases to be classified as held- for-sale and is measured at the lower of its carrying amount before the asset was classified as held-for-sale  adjusted for any depreciation that would have been recognised had the asset not been reclassified as held for  sale and its recoverable amount at the date of the subsequent reclassification.
+
+The required adjustment to the  carrying amount of an asset that ceases to be classified as held-for-sale is included in the consolidated income  statement.
+
+The Group classified certain assets in Plymouth, Indiana and Siloam Springs, Arkansas as held-for- sale as of 30 April 2018 (see Note 16).
+
+The Group did not have any assets held for sale as of 30 April 2017.
+
+4.13  Employee benefits (i)  Defined contribution plans A defined contribution plan is a post-employment benefit plan under which an entity pays fixed  contributions into a separate entity and will have no legal or constructive obligation to pay further  amounts.
+
+Obligations for contributions to defined contribution pension plans are recognised as an employee  benefit expense in the income statement in the periods during which services are rendered by employees.
+
+(ii)  Defined benefit pension plan A defined benefit pension plan requires contributions to be made to separately administered funds.
+
+The Groups net obligation in respect of defined benefit plans is calculated separately for each plan by  estimating the amount of future benefit that employees have earned in the current and prior periods,  discounting that amount and deducting the fair value of any plan assets.
+
+The Group determines the  net interest expense (income) on the net defined benefit liability (asset) for the period by applying the  discount rate used to measure the defined benefit obligation at the beginning of the annual period to  the net defined benefit liability (asset), taking into account any changes in the net defined benefit liability  (asset) during the period as a result of contributions and benefit payments.
+
+The calculation of defined benefit obligations is performed annually by a qualified actuary using the  projected unit credit method.
+
+When the calculation results in a benefit to the Group, the recognised  asset is limited to the present value of economic benefits available in the form of any future refunds from  the plan or reductions in future contributions to the plan.
+
+To calculate the present value of economic  benefits, consideration is given to any applicable minimum funding requirements that apply to any plan  in the Group.
+
+An economic benefit is available to the Group if it is realisable during the life of the plan,  or on settlement of the plan liabilities.
+
+Service costs which include current service costs, past service costs and gains or losses on non-routine  settlements are recognised as expense in profit or loss.
+
+Past service costs are recognised when plan  amendment or curtailment occurs.
+
+143 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 4.
+
+SIGNIFICANT ACCOUNTING POLICIES (CONTD) 4.13  Employee benefits (contd) (ii)  Defined benefit pension plan (contd) Remeasurements of the net defined benefit liability comprise actuarial gains and losses, the return on  plan assets (excluding interest) and the effect of the asset ceiling (if any, excluding interest).
+
+The Group  recognises them immediately in other comprehensive income and all expenses related to defined  benefit plans in staffcost in profit or loss.
+
+When the benefits of a plan are changed or when a plan is  curtailed, the resulting change in benefit that relates to past service or the gain or loss on curtailment is  recognised immediately in the income statement.
+
+When the plan amendment or curtailment occurs, the Group recognises gains and losses on the  settlement of a defined benefit plan when the settlement occurs.
+
+The gain or loss on settlement is the  difference between the present value of the defined benefit obligation being settled as determined on  the date of settlement and the settlement price, including any plan assets transferred and any payments  made directly by the Group in connection with the settlement.
+
+In fiscal 2016, a plan amendment was  implemented for certain medical and dental benefits (see Note 21).
+
+Multi-employer plans The Group participates in several multi-employer pension plans, which provide defined benefits  to certain union employees.
+
+The Group accounts for its proportionate share of the defined benefit  obligation, plan assets and cost associated with the plan in the same way as other defined benefit plan.
+
+For certain union employee related retirement plans where sufficient information is not available to use  defined benefit accounting, the Group accounts for these plans as if they were defined contribution  plans.
+
+(iii)  Other plans The Group has various other non-qualified retirement plans and supplemental retirement plans for  executives, designed to provide benefits in excess of those otherwise permitted under the Groups  qualified retirement plans.
+
+These plans are unfunded and comply with Internal Revenue Service (IRS)  rules for non-qualified plans.
+
+(iv)  Other long-term employee benefits The Groups net obligation in respect of long-term employee benefits other than pension plans is the  amount of future benefit that employees have earned in return for their service in the current and prior  periods.
+
+That benefit is discounted to determine its present value, and the fair value of any related assets  is deducted.
+
+The calculation is performed using the projected unit credit method.
+
+Any actuarial gains  and losses are recognised in the income statement in the period in which they arise.
+
+(v)  Termination benefits  Termination benefits are recognised as an expense when the Group is demonstrably committed,  without realistic possibility of withdrawal, to a formal detailed plan to either terminate employment  before the normal retirement date, or to provide termination benefits as a result of an offer made to  encourage voluntary redundancy.
+
+Termination benefits are recognised as an expense once the Group  has announced the plan to affected employees.
+
+144 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 4.
+
+SIGNIFICANT ACCOUNTING POLICIES (CONTD) 4.13  Employee benefits (contd) (vi)  Short-term employee benefits Short-term employee benefit obligations are measured on an undiscounted basis and are expensed as  the related service is provided.
+
+A liability is recognised for the amount expected to be paid under short- term cash bonus if the Group has a present legal or constructive obligation to pay this amount as a  result of past service provided by the employee and the obligation can be estimated reliably.
+
+(vii)  Share-based payment transactions The Group grants share awards and share options to employees of the Group.
+
+The fair value of incentives  granted is recognised as an employee benefit expense with a corresponding increase in equity.
+
+The fair  value is measured at grant date and accounted for as described below.
+
+Share awards The fair value, measured at grant date, is recognised over the period during which the employees  become unconditionally entitled to the shares.
+
+Share options The fair value, measured at grant date, is recognised over the vesting period during which the employees  become unconditionally entitled to the options.
+
+At each reporting date, the Group revises its estimates  of the number of options that are expected to become exercisable.
+
+It recognises the impact of the  revision of original estimates in employee benefit expense and as a corresponding adjustment to equity  over the remaining vesting period.
+
+4.14  Share capital and retained earnings (i)  Share capital Ordinary shares Ordinary shares are classified as equity.
+
+Holders of these shares are entitled to dividends as declared  from time to time and are entitled to one vote per share at general meetings of the Company.
+
+Preference shares Preference shares are classified as equity.
+
+Holders of these shares are entitled to cash dividends based  on the issue price, at the dividend rate per annum from the issue date, payable every 7 October and 7  April of each year following the issue date, upon declaration by the BOD.
+
+The transaction costs directly attributable to the issue of ordinary and preference shares are accounted  for as deduction from equity to the extent they are incremental costs directly attributable to the  equity transaction that otherwise would have been avoided.
+
+The costs of an equity transaction that is  abandoned are recognised as an expense.
+
+145 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 4.
+
+SIGNIFICANT ACCOUNTING POLICIES (CONTD) 4.14  Share capital and retained earnings (contd) (i)  Share capital (contd) Repurchase, disposal and reissue of share capital (treasury shares) When share capital recognised as equity is repurchased, the amount of the consideration paid, which  includes directly attributable costs, net of any tax effects, is recognised as a deduction from equity.
+
+Repurchased shares are classified as treasury shares and are presented in the reserve for own shares.
+
+When treasury shares are sold or reissued subsequently, the amount received is recognised as an  increase in equity, and the resulting surplus or deficit on the transaction is presented in share premium.
+
+Share premium Share premium represents the excess of consideration received over the par value of ordinary and  preference shares net of transaction costs from issuance of share capital, share options exercised and  released of share awards granted.
+
+(ii)  Retained Earnings Retained earnings include profit attributable to the equity holders of the Group and reduced by dividends  declared on share capital.
+
+(iii)  Dividends Dividends are recognised as a liability and deducted from retained earnings when they are declared.
+
+4.15  Provisions A provision is recognised if, as a result of a past event, the Group has a present legal or constructive obligation  that can be estimated reliably, and it is probable that an outflow of economic benefits will be required to settle  the obligation.
+
+Provisions are determined by discounting the expected future cash flows at a pre-tax rate  that reflects current market assessments of the time value of money and the risks specific to the liability.
+
+The  unwinding of the discount is recognised as finance cost.
+
+(i)  Environment remediation liabilities In accordance with the Groups environment policy and applicable legal requirements, a provision for  environmental remediation obligations and the related expense is recognised when such losses are  probable and the amounts of such losses can be estimated reliably.
+
+Accruals for estimated losses for  environmental remediation obligations are recognised no later than the completion of the remedial  feasibility study.
+
+These accruals are adjusted as further information develops or circumstances change.
+
+(ii)  Retained insurance liabilities The Group accrues for retained insurance risks associated with the deductible portion of any potential  liabilities that might arise out of claims of employees, customers or other third parties for personal injury  or property damage occurring in the course of the Groups operations.
+
+A third-party actuary is engaged to assist the Group in estimating the ultimate cost of certain retained  insurance risks.
+
+Additionally, the Groups estimate of retained insurance liabilities is subject to change as  new events or circumstances develop which might materially impact the ultimate cost to settle these  losses.
+
+148 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 4.
+
+SIGNIFICANT ACCOUNTING POLICIES (CONTD) 4.22  Contingencies A contingent liability is: (a)  a possible obligation that arises from past events and whose existence will be confirmed only by the  occurrence or non-occurrence of one or more uncertain future events not wholly within the control of  the Group; or (b)  a present obligation that arises from past events but is not recognised because: (i)  It is not probable that an outflow of resources embodying economic benefits will be required to  settle the obligation; or  (ii)  The amount of the obligation cannot be measured with sufficient reliability.
+
+A contingent asset is a possible asset that arises from past events and whose existence will be confirmed only  by the occurrence or non-occurrence of one or more uncertain future events not wholly within the control  of the Group.
+
+Contingent liabilities and assets are not recognised on the statement of financial position of the Group, except  for contingent liabilities assumed in a business combination that are present obligations and which the fair  values can be reliably determined.
+
+4.23  New standards and interpretations issued but not yet adopted Pronouncements issued but not yet effective are listed below.
+
+Unless otherwise indicated, the Company and  the Group do not expect that the future adoption of the said pronouncements will have a significant impact on  its financial statements.
+
+The Company and the Group intends to adopt the following pronouncements when  they become effective.
+
+Applicable for annual periods beginning on or after 1 May 2018   IFRS 9 Financial Instruments (2014) IFRS 9 (2014) replaces IAS 39 Financial Instruments: Recognition and Measurement and supersedes  the previously published versions of IFRS 9 that introduced new classifications and measurement  requirements (in 2009 and 2010) and a new hedge accounting model (in 2013).
+
+IFRS 9 includes revised  guidance on the classification and measurement of financial assets, including a new expected credit  loss model for calculating impairment, guidance on own credit risk on financial liabilities measured  at fair value and supplements the new general hedge accounting requirements published in 2013.
+
+IFRS 9 incorporates new hedge accounting requirements that represent a major overhaul of hedge  accounting and introduces significant improvements by aligning the accounting more closely with risk  management.
+
+The new standard is to be generally applied retrospectively for annual periods beginning  on or after 1 January 2018, subject to certain exemptions provided by the standard.
+
+The Company  and the Group is still determining the optimal transition approach to adopting IFRS 9.
+
+The assessments  made by the Company and Group below is preliminary and incomplete, and therefore may be subject  to change.
+
+154 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 4.
+
+SIGNIFICANT ACCOUNTING POLICIES (CONTD) 4.23  New standards and interpretations issued but not yet adopted (contd) Applicable for the first annual reporting period that begins on or after 1 May 2019   IFRS 16 Leases supersedes IAS 17 Leases and the related interpretations  The new standard introduces a single lease accounting model for lessees under which all major leases  are recognised in the Statement of Financial Position, removing the lease classification test.
+
+Lease  accounting for lessors essentially remains unchanged except for a number of details including the  application of the new lease definition, new sale-and-leaseback guidance, new sub-lease guidance and  new disclosure requirements.
+
+Practical expedients and targeted reliefs were introduced including an  optional lessee exemption for short-term leases (leases with a term of 12 months or less) and low-value  items, as well as the permission of portfolio-level accounting instead of applying the requirements to  individual leases.
+
+New estimates and judgemental thresholds that affect the identification, classification  and measurement of lease transactions, as well as requirements to reassess certain key estimates and  judgements at each reporting date were introduced.
+
+Early application is permitted for entities that apply IFRS 15 at or before the date of initial application  of IFRS 16.
+
+The Group is assessing the potential impact on its financial statements resulting from the  application of IFRS 16.
+
+IFRIC-23 Uncertainty over Income Tax Treatments clarifies how to apply the recognition and  measurement requirements in IAS 12 Income Taxes when there is uncertainty over income tax  treatments.
+
+Under the interpretation, whether the amounts recorded in the financial statements will differ to that  in the tax return, and whether the uncertainty is disclosed or reflected in the measurement, depends  on whether it is probable that the tax authority will accept the entitys chosen tax treatment.
+
+If it is not  probable that the tax authority will accept the entitys chosen tax treatment, the uncertainty is reflected  using the measure that provides the better prediction of the resolution of the uncertainty  either  the most likely amount or the expected value.
+
+The interpretation also requires the reassessment of  judgements and estimates applied if facts and circumstances change  e.g. as a result of examination  or action by tax authorities, following changes in tax rules or when a tax authoritys right to challenge  a treatment expires.
+
+The interpretation is effective for annual periods beginning on or after 1 May 2019.
+
+Earlier application  is permitted.
+
+Amendments to IAS 19 Plan Amendment, Curtailment or Settlement  The amendments clarify that on amendment, curtailment or settlement of a defined benefit plan, a  company now uses updated actuarial assumptions to determine its current service cost and net interest  for the period and the effect of the asset ceiling is disregarded when calculating the gain or loss on any  settlement of the plan and is dealt with separately in other comprehensive income.
+
+The amendments apply for plan amendments, curtailments or settlements that occur on or after the  beginning of the first annual reporting period that begins on or after 1 May 2019.
+
+Earlier application is  permitted.
+
+156 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 4.
+
+SIGNIFICANT ACCOUNTING POLICIES (CONTD) 4.23  New standards and interpretations issued but not yet adopted (contd) Applicable for the first annual reporting period that begins on or after 1 May 2019 (contd)   Amendments to IFRS 9 Prepayment features with negative compensation  Under IFRS 9, a debt instrument can be measured at amortised cost or at fair value through other  comprehensive income, provided that the contractual cash flows are solely payments of principal and  interest on the principal amount outstanding (the SPPI criterion) and the instrument is held within the  appropriate business model for that classification.
+
+The amendments to IFRS 9 clarify that a financial  asset passes the SPPI criterion regardless of the event or circumstance that causes the early termination  of the contract and irrespective of which party pays or receives reasonable compensation for the  early termination of the contract.
+
+The basis for conclusions to the amendments clarified that the early  termination can result from a contractual term or from an event outside the control of the parties to the  contract, such as a change in law or regulation leading to the early termination of the contract.
+
+Amendments to IAS 28 Long-term interests in associate and joint ventures The amendments clarify that an entity applies IFRS 9 to long-term interests in an associate or joint  venture to which the equity method is not applied but that, in substance, form part of the net investment  in the associate or joint venture (long-term interests).
+
+This clarification is relevant because it implies that  the expected credit loss model in IFRS 9 applies to such long-term interests.
+
+The Board also clarified that, in applying IFRS 9, an entity does not take account of any losses of the  associate or joint venture, or any impairment losses on the net investment, recognised as adjustments  to the net investment in the associate or joint venture that arise from applying IAS 28.
+
+The amendments are effective for annual periods beginning on or after 1 May 2019.
+
+Earlier application  is permitted.
+
+Applicable for the first annual reporting period that begins on or after 1 May 2021   IFRS 17 Insurance Contracts The overall objective of IFRS 17 is to provide an accounting model for insurance contracts that is more  useful and consistent for insurers.
+
+In contrast to the requirements in IFRS 4, which are largely based on grandfathering previous local  accounting policies, IFRS 17 provides a comprehensive model for insurance contracts, covering all  relevant accounting aspects.
+
+The core of IFRS 17 is the general model, supplemented by:   A specific adaptation for contracts with direct participation features (the variable fee approach)   A simplified approach (the premium allocation approach) mainly for short-duration contracts  161 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 5.
+
+PROPERTY, PLANT AND EQUIPMENT  NET (CONTD) Plant closures and divestiture of Sager Creek business (contd) Northwest Arkansas Distribution and Warehouse Facilities  The Group announced on 19 January 2018 its intention to close its distribution and warehouse facilities in  Northwest Arkansas.
+
+These closures will take place during the first half of fiscal year 2019.
+
+Under the termination plan, approximately 125 employees were affected, the majority of which were terminated  by the end of fiscal year 2018.
+
+The Group recognised provisions for employee severance benefits amounting  to US$1.3 million, with US$1.1 million outstanding as of 30 April 2018.
+
+The employee severance benefits are  presented under Employee benefits.
+
+Sager Creek  Turkey, North Carolina In April 2016, the Group announced its intention to close Sager Creeks plant in Turkey, North Carolina.
+
+The  Group closed the plants canning facilities during fiscal year 2016 and the remainder of the production lines  were redeployed to other production locations as of 30 April 2017.
+
+In connection with the plant closure, the  Group recognised impairment losses on related property, plant and equipment amounting to US$5.0 million  in fiscal year 2016.
+
+Under the termination plan, approximately 300 employees were affected, about two-thirds of which were  terminated by the end of fiscal year 2016, and the remainder terminated in fiscal year 2017.
+
+The Group recognised  provisions for employee severance benefits amounting to US$1.4 million, with US$1.2 million outstanding as of  30 April 2016.
+
+The employee severance benefits are presented under Employee benefits.
+
+Related equipment  removal costs amounting to US$2.3 million, together with other related costs, were recognised in fiscal year  2016 and included under Trade and other payables.
+
+These expenditures were incurred in fiscal year 2017 and  there are no outstanding provisions as of 30 April 2017.
+
+As of 30 April 2017, the Group has sold the Turkey plant and recognised a gain of US$0.7 million.
+
+Source of estimation uncertainty The Group estimates the useful lives of its buildings, land improvements, leasehold improvements and  machineries and equipment based on the period over which the assets are expected to be available for use.
+
+The  estimated useful lives of property, plant and equipment are reviewed periodically and are updated if expectations  differ from previous estimates due to physical wear and tear, technical or commercial obsolescence and legal  or other limits on the use of the assets.
+
+In addition, the estimation of the useful lives of property, plant and equipment is based on collective assessment  of industry practice, internal technical evaluation and experiences with similar assets.
+
+It is possible, however,  that future financial performance could be materially affected by changes in estimates brought about by  changes in factors mentioned above.
+
+The amount and timing of recorded expenses for any period would be  affected by changes in these factors and circumstances.
+
+A reduction in the estimated useful lives of property,  plant and equipment would increase recorded depreciation expense and decrease noncurrent assets.
+
+The depreciation of bearer plants require estimation of future yield which is affected by natural phenomena  and weather patterns.
+
+The valuation of freehold land is based on comparable transaction subject to adjustments.
+
+These adjustments  require judgement.
+
+The recoverable amount of the impaired assets was based on fair value less cost to sell, which is subject to  estimation.
+
+165 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 6.
+
+INVESTMENTS IN SUBSIDIARIES (CONTD) Name of subsidiary Principal activities Place of in- corporation  and business Effective equity  held by the Group 30 April 2018 30 April 2017 % % Held by DM Ventures Del Monte Avo, LLC[c] Development, production,  marketing, sale and distribution  of UHP avocado products State of Delaware,  U.S.A. 51.00  Del Monte Chilled Fruit  Snacks, LLC[c] Development, production,  marketing, sale and distribution  of processed refrigerated fruit  products State of Delaware,  U.S.A. 51.00  Held by Del Monte Andina C.A. Del Monte Argentina S.A.[8] Inactive Argentina   (a) 0.1% held by DMPRL.
+
+DMFIPL had been dissolved effective 23 June 2017.
+
+(b) DMTDI is consolidated as the Group has de facto control over the entity.
+
+Management believes that the Group has control over DTMTDI since it is exposed, or has rights, to variable returns and has the ability to  affect those returns through its power over DMTDI.
+
+(c) In connection with the 27 June 2017 Settlement Agreement which resulted to the dismissal of the license dispute filed with the U.S.  District Court for the Southern District of New York in December 2013, DMFI and Fresh Del Monte (FDP) entered into four joint venture  agreements.
+
+To effect these joint ventures, the Group incorporated its subsidiary, Del Monte Ventures, LLC on 21 June 2017 which  acquired interests in four joint venture entities which were all incorporated in the state of Delaware, USA.
+
+These joint ventures will pursue  sales of expanded refrigerated offerings across all distribution and sales channels, and will establish a new retail food and beverage  concept.
+
+These joint ventures will initially focus on the U.S. market, with the potential for expansion into other territories.
+
+These joint  venture entities are in their pre-operating stages and have no material assets or liabilities as of 30 April 2018.
+
+[1] Audited by SyCip Gorres Velayo & Co. (SGV).
+
+[2] Audited by Ernst and Young LLP (EY) Singapore.
+
+[3] Audited by Ernst & Young member firms in the respective countries.
+
+[4] Audited by other certified public accountants.
+
+Subsidiary is not significant under rule 718 of the SGX-ST Listing Manual.
+
+[5] Not required to be audited in the country of incorporation.
+
+Audited by SGV for the purpose of group reporting.
+
+[6] Not required to be audited in the country of incorporation.
+
+Audited by Ernst and Young LLP, Singapore for the purpose of group reporting.
+
+[7] Not required to be audited in the country of incorporation.
+
+[8] Not required to be audited in the country of incorporation.
+
+The Venezuelan entity was deconsolidated in 2015.
+
+The Company regularly reassesses whether it controls an investee when facts and circumstances indicate that  there are changes to one or more of the three elements of control listed in Note 4.
+
+The Company determined  that it exercised control on all its subsidiaries as it has all elements of control.
+
+In fiscal year 2015, the Group deconsolidated its subsidiary, Del Monte Andina C.A., an entity which has  operations in Venezuela.
+
+Venezuela has a hyperinflationary economy.
+
+The Venezuelan exchange control  regulations have resulted in other-than-temporary lack of exchangeability between the Venezuelan Bolivar and  US Dollar.
+
+This has restricted the Venezuelan entitys ability to pay dividends and obligations denominated in US  Dollars.
+
+The exchange regulations, combined with other recent Venezuelan regulations, have constrained the  Venezuelan entitys ability to maintain normal production.
+
+Due to the Groups inability to effectively control the  operations of the entity, the Group deconsolidated the subsidiary with effect from February 2015.
+
+The equity  interest in this entity is determined to be the cost of investment of the entity at the date of deconsolidation.
+
+The investment is carried at cost less impairment losses.
+
+Source of estimation uncertainty When the subsidiary has suffered recurring operating losses, a test is made to assess whether the interests in  subsidiary has suffered any impairment by determining the recoverable amount.
+
+This determination requires  significant judgement and estimation.
+
+An estimate is made of the future profitability, cash flow, financial health  and near-term business outlook of the subsidiary, including factors such as market demand and performance.
+
+The recoverable amount will differ from these estimates as a result of differences between assumptions used  and actual operations.
+
+165 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 6.
+
+INVESTMENTS IN SUBSIDIARIES (CONTD) Name of subsidiary Principal activities Place of in- corporation  and business Effective equity  held by the Group 30 April 2018 30 April 2017 % % Held by DM Ventures Del Monte Avo, LLC[c] Development, production,  marketing, sale and distribution  of UHP avocado products State of Delaware,  U.S.A. 51.00  Del Monte Chilled Fruit  Snacks, LLC[c] Development, production,  marketing, sale and distribution  of processed refrigerated fruit  products State of Delaware,  U.S.A. 51.00  Held by Del Monte Andina C.A. Del Monte Argentina S.A.[8] Inactive Argentina   (a) 0.1% held by DMPRL.
+
+DMFIPL had been dissolved effective 23 June 2017.
+
+(b) DMTDI is consolidated as the Group has de facto control over the entity.
+
+Management believes that the Group has control over DTMTDI since it is exposed, or has rights, to variable returns and has the ability to  affect those returns through its power over DMTDI.
+
+(c) In connection with the 27 June 2017 Settlement Agreement which resulted to the dismissal of the license dispute filed with the U.S.  District Court for the Southern District of New York in December 2013, DMFI and Fresh Del Monte (FDP) entered into four joint venture  agreements.
+
+To effect these joint ventures, the Group incorporated its subsidiary, Del Monte Ventures, LLC on 21 June 2017 which  acquired interests in four joint venture entities which were all incorporated in the state of Delaware, USA.
+
+These joint ventures will pursue  sales of expanded refrigerated offerings across all distribution and sales channels, and will establish a new retail food and beverage  concept.
+
+These joint ventures will initially focus on the U.S. market, with the potential for expansion into other territories.
+
+These joint  venture entities are in their pre-operating stages and have no material assets or liabilities as of 30 April 2018.
+
+[1] Audited by SyCip Gorres Velayo & Co. (SGV).
+
+[2] Audited by Ernst and Young LLP (EY) Singapore.
+
+[3] Audited by Ernst & Young member firms in the respective countries.
+
+[4] Audited by other certified public accountants.
+
+Subsidiary is not significant under rule 718 of the SGX-ST Listing Manual.
+
+[5] Not required to be audited in the country of incorporation.
+
+Audited by SGV for the purpose of group reporting.
+
+[6] Not required to be audited in the country of incorporation.
+
+Audited by Ernst and Young LLP, Singapore for the purpose of group reporting.
+
+[7] Not required to be audited in the country of incorporation.
+
+[8] Not required to be audited in the country of incorporation.
+
+The Venezuelan entity was deconsolidated in 2015.
+
+The Company regularly reassesses whether it controls an investee when facts and circumstances indicate that  there are changes to one or more of the three elements of control listed in Note 4.
+
+The Company determined  that it exercised control on all its subsidiaries as it has all elements of control.
+
+In fiscal year 2015, the Group deconsolidated its subsidiary, Del Monte Andina C.A., an entity which has  operations in Venezuela.
+
+Venezuela has a hyperinflationary economy.
+
+The Venezuelan exchange control  regulations have resulted in other-than-temporary lack of exchangeability between the Venezuelan Bolivar and  US Dollar.
+
+This has restricted the Venezuelan entitys ability to pay dividends and obligations denominated in US  Dollars.
+
+The exchange regulations, combined with other recent Venezuelan regulations, have constrained the  Venezuelan entitys ability to maintain normal production.
+
+Due to the Groups inability to effectively control the  operations of the entity, the Group deconsolidated the subsidiary with effect from February 2015.
+
+The equity  interest in this entity is determined to be the cost of investment of the entity at the date of deconsolidation.
+
+The investment is carried at cost less impairment losses.
+
+Source of estimation uncertainty When the subsidiary has suffered recurring operating losses, a test is made to assess whether the interests in  subsidiary has suffered any impairment by determining the recoverable amount.
+
+This determination requires  significant judgement and estimation.
+
+An estimate is made of the future profitability, cash flow, financial health  and near-term business outlook of the subsidiary, including factors such as market demand and performance.
+
+The recoverable amount will differ from these estimates as a result of differences between assumptions used  and actual operations.
+
+168 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 7.
+
+INVESTMENTS IN JOINT VENTURES (CONTD) Source of estimation uncertainty When the joint venture has suffered recurring operating losses, a test is made to assess whether the investment  in joint venture has suffered any impairment by determining the recoverable amount.
+
+This determination  requires significant judgement and estimation.
+
+An estimate is made of the future profitability, cash flow,  financial health and near-term business outlook of the joint venture, including factors such as market demand  and performance.
+
+The recoverable amount will differ from these estimates as a result of differences between  assumptions used and actual operations.
+
+Since its acquisition, the Indian sub-continent trademark and the investment in FFPL were allocated to the  Indian sub-continent cash-generating unit (Indian sub-continent CGU).
+
+The recoverable amount of Indian  sub-continent CGU was estimated using the discounted cash flows based on five-year cash flow projections.
+
+Key assumptions used in discounted cash flow projection calculations Key assumptions used in the calculation of recoverable amounts are discount rates, revenue growth rates,  earnings before interest, taxes, depreciation and amortisation (EBITDA) margin and terminal value growth rate.
+
+The values assigned to the key assumptions represented managements assessment of future trends in the  industries and were based on both external and internal sources.
+
+30 April  2018 30 April  2017 % % Pre-tax discount rate 14.1 13.2 Revenue growth rate 15.0  20.0 15.0  20.0 EBITDA margin 7.0  12.0 4.0  11.0 Long-term EBITDA margin 11.6 10.8 Terminal value growth rate 5.0 5.0 In fiscal year 2018, discount rate is a pre-tax measure estimated based on past experience, and industry average  weighted-average cost of capital, which is based on a possible rate of debt leveraging of 15.7% (2017: 14.7%)  at a market interest rate of 9.5% (2017: 9.7%).
+
+Revenue growth rate is expressed as compound annual growth rates in the initial five years of the plan.
+
+In  the first year of the business plan, revenue growth rate was projected at 18% (2017: 15%) based on the near- term business plan and market demand.
+
+The annual revenue growth included in the cash flow projections for  four years was projected at the growth rate based on the historical growth in volume and prices and industry  growth.
+
+A long-term growth rate into perpetuity has been determined based on managements estimate of the long- term compound annual growth rate in the Indian economy which management believed was consistent with  the assumption that a market participant would make.
+
+EBITDA margin has been a factor of the revenue forecast based on business plan and market demand coupled  with the cost saving initiatives.
+
+174 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 8.
+
+INTANGIBLE ASSETS AND GOODWILL (CONTD) Sensitivity analysis Management has identified that a reasonably possible change in the market multiples could cause the carrying  amount to exceed the recoverable amount.
+
+The following table shows the amount to which the market  multiples would need to change independently for the estimated recoverable amount of the DMFI CGU to be  equal to its carrying amount.
+
+Breakeven Multiple 2018 2017 MVIC/Revenue  Last twelve months 0.7x 0.9x MVIC/Revenue  Projected 0.8x   MVIC/EBITDA  Last twelve months 12.6x 12.1x MVIC/EBITDA  Projected 9.6x     The following table shows the amount to which the discount rate, and long-term EBITDA margin would need  to change independently for the estimated recoverable amount of the DMFI CGU to be equal to its carrying  amount.
+
+2018 2017 % % Discount rate 12.2 7.9 Long-term EBITDA margin 7.7 13.6 Source of estimation uncertainty Goodwill and the indefinite life trademarks are assessed for impairment annually.
+
+The impairment assessment  requires an estimation of the VIU and fair value less costs of disposal of the CGU to which the goodwill and  indefinite life trademarks are allocated.
+
+Estimating the VIU requires the Group to make an estimate of the expected future cash flows from the CGU  and apply an appropriate discount rate in order to calculate the present value of those cash flows.
+
+Actual  cash flows will differ from these estimates as a result of differences between assumptions used and actual  operations.
+
+Estimating fair value less costs of disposal requires the Group to calculate market multiples, derived from  market price data of comparable companies, to be applied to the Groups financial measures.
+
+The estimated  fair value would change depending on the assumptions used, such as the annual revenue growth rate, EBITDA  margin, and adjusted market multiples.
+
+Amortisable trademarks and customer relationships Remaining amortisation  period (years) Net carrying amount 30 April 2018 30 April 2017 2018 2017 US$'000 US$'000 Asia S&W trademark 4 22 0.2 1.2 America S&W trademark 1,162 1,363 5.8 6.8 America Contadina trademark 17,398 18,497 15.8 16.8 Sager Creek trademarks  9,793  9.9 18,564 29,675  175 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 8.
+
+INTANGIBLE ASSETS AND GOODWILL (CONTD) Asia S&W trademark The amortisable trademark pertains to Label Development trademark.
+
+America trademarks The amortisable trademarks relate to the exclusive right to use of the S&W trademark in the United States,  Canada, Mexico and certain countries in Central and South America and Contadina trademark in the United  States, Canada, Mexico South Africa and certain countries in Asia Pacific, Central America, Europe, Middle East  and South America market.
+
+Management has included these trademarks in the CGU impairment assessment and concluded that no  impairment exists at the reporting date.
+
+Sager Creek trademarks The trademarks were acquired when the Group acquired the Sager Creek business in March 2015.
+
+Sager Creeks  well-known brands include Veg-All, Freshlike, Popeye, Princella and Allens, among others.
+
+Management has  included these trademarks in the CGU impairment assessment and the Group did not recognize any impairment  for these trademarks as of 30 April 2017.
+
+The Sager Creek trademarks were included in the sale of certain assets  of Sager Creek in September 2017 (see Note 5).
+
+Customer relationships Customer relationships relate to the network of customers where DMFI has established relationships with the  customers, particularly in the United States market through contracts.
+
+The Sager Creek customer relationships  were included in the sale of certain assets of Sager Creek in September 2017.
+
+30 April  2018 30 April  2017 US$'000 US$'000 Net carrying amount 84,612 99,876 Remaining amortisation period 15.8 5.9  16.8 Management has included the customer relationships in the CGU impairment assessment and concluded no  impairment exists at the reporting date.
+
+Source of estimation uncertainty The Group estimates the useful lives of its amortisable trademarks and customer relationships based on the  period over which the assets are expected to be available for use.
+
+The estimated useful lives of the trademarks  and customer relationships are reviewed periodically and are updated if expectations differ from previous  estimates due to legal or other limits on the use of the assets.
+
+A reduction in the estimated useful lives of  amortisable trademarks and customer relationships would increase recorded amortisation expense and  decrease noncurrent assets.
+
+177 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 9.
+
+DEFERRED TAX (CONTD) At  1 May 2016 Recognised   in profit   or loss Recognised  in other  comprehensive  income Currency  realignment At  30 April  2017 US$000  US$000 US$000 US$000 US$000 30 April 2017 Provisions 6,675  (203)    (1,035)  5,437  Employee benefits 43,485  (416)  (6,360)  (155)  36,554  Property, plant and equipment    net (34,667)  (4,445)  (1,236)  132   (40,216) Intangible assets and goodwill (44,794)  (20,096)    (64,890) Effective portion of changes in   fair value of cash flow hedges 13,403  (701)  (6,893)   5,809  Tax loss carry-forwards 103,643  34,670   (14)  138,299  Inventories 3,256  (1,738)     1,518  Biological assets (1,616)  (831)   11   (2,436) Others 8,807  (61)   52   8,798  98,192  6,179  (14,489)  (1,009)  88,873  The total amount of potential income tax consequences that would arise from the payment of cash dividends  by a subsidiary to the Company, on the total retained earnings as at 30 April 2018, is approximately US$14.4  million (30 April 2017: US$8.5 million).
+
+In 2017, no provision has been made in respect of this potential income tax as it is the Companys intention to  reinvest these reserves and not to distribute them as dividends.
+
+In 2018, the Group plans to declare stock dividends from the excess reserves.
+
+No provision has been made  because stock dividends are exempt from tax.
+
+Unrecognised deferred tax assets Deferred tax assets have not been recognised with respect to the following items.
+
+30 April 2018 30 April 2017 US$000 US$000 Deductible temporary differences 9,281 28,858 Tax losses and tax credits 549 5,745 9,830 34,603 The tax losses will expire in 2019 and 2020.
+
+The tax carry forwards will expire between 2024 and 2027.
+
+Deferred  tax assets have not been recognised with respect to these items because it is not probable that future taxable  profits will be available to utilise the benefits.
+
+Sources of estimation uncertainty As of 30 April 2018, deferred tax assets amounting to US$119.6 million (30 April 2017: US$138.3 million) have  been recognised in respect of the tax loss carry forwards because management assessed that it is probable  that future taxable profit will be available against which DMFI can utilise these benefits.
+
+Management expects  profitable growth coming from revenue strategies and cost efficiencies in the future.
+
+To the extent that  profitable growth does not materialise in the future periods, net deferred tax assets of DMFI of US$77.8 million  may not be realised.
+
+The majority of the tax loss for 30 April 2018 can be carried forward indefinitely and tax  loss carry forwards prior to 30 April 2018 may be utilised up to a 20 year period.
+
+194 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 19.
+
+LOANS AND BORROWINGS (CONTD) Unsecured Bank Loans Certain unsecured bank loan agreements contain various affirmative and negative covenants that are typical  of these types of facilities such as financial covenants relating to required debt-to-equity ratio, interest cover  and maximum annual capital expenditure restrictions.
+
+These covenants include requirements for delivery  of periodic financial information and restrictions and limitations on indebtedness, investments, acquisitions,  guarantees, liens, asset sales, disposals, mergers, changes in business, dividends and other transfers.
+
+BDO bank loans Principal Debt-to equity ratio Interest coverage US$000 Unsecured bridging loan 54,000 8.0x 1.5x Unsecured bridging loan 130,000 3.0x* 2.0x** *  applicable for FY2018 to FY2020 **  applicable for FY2017 to FY2020 The Company and the Group is compliant with its loan covenants as at 30 April 2018 and 2017.
+
+Ability to Incur Additional Indebtedness.
+
+On 12 December 2017, the Company entered into a Third Amendment  Agreement with BDO that gives the Company the right to reborrow up to an aggregate amount of US$200  million, subject to the terms of such amendment agreement.
+
+20.
+
+OTHER NONCURRENT LIABILITIES Group 30 April 2018 30 April 2017 US$000 US$000 Workers compensation  22,209   23,410  Accrued lease liabilities  7,555   7,036  Derivative liabilities  1,803  8,442  Accrued vendors liabilities  1,208   Due to related party  non current 684  Deferred rental liabilities  333   3,818 Other payables  1,403   1,312   35,195  44,018  Workers compensation are liabilities for wage replacement and medical benefits to employees injured in the  course of employment in exchange for mandatory relinquishment of the employees right to sue his or her  employer for the tort of negligence.
+
+Derivative liabilities The Group uses interest rate swaps, commodity swaps and forward foreign currency contracts to hedge market  risks relating to possible adverse changes in interest rates, commodity costs and foreign currency exchange  rates.
+
+The Group continually monitors its positions and the credit rating of the counterparties involved to  mitigate the amount of credit exposure to any one party.
+
+198 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 21.
+
+EMPLOYEE BENEFITS (CONTD) Represented by: Net defined   benefit liability/(asset) 30 April  2018 30 April  2017 US$000 US$000 Net defined benefit asset  (10,607) (5,517) Post-retirement benefit obligation  34,594 39,017 Net defined benefit liability  30,551 37,945 54,538 71,445 During fiscal year 2016, a change to the post-retirement benefits plan of certain non-union employees  were made where current retiree medical and dental benefits were replaced for contributions to a health  reimbursement arrangement (HRA) account.
+
+As a result of the plan amendment, the Groups defined benefit  obligation decreased by US$40.7 million.
+
+A corresponding reduction against past service cost was recognised  as part of General and administrative expenses account in the 2016 income statement of the Group.
+
+Plan assets Plan assets comprise: Group 30 April 30 April 2018 2017 US$000 US$000 Interest-bearing cash/bank deposits 10,791  5,710 Real estate 15,176  15,130   Common collective trust funds     Fixed income 74,884  88,577     Equity fund 107,320  113,164 Mutual funds   Equity fund 8,647  9,143 Debt instruments   Corporate 41,491  39,348   Government 44,566  50,613   Others 6,272  5,958 Equity securities   Quoted 15,069  3,053 Others 12,723  16,461 Fair value of plan assets 336,939  347,157 The BOD of DMFI reviews the level of funding required for the retirement fund.
+
+Such a review includes the  asset-liability matching (ALM) strategy and investment risk management policy.
+
+DMFIs ALM objective is to  match maturities of the plan assets to the retirement benefit obligation as they fall due.
+
+The Group monitors  how the duration and expected yield of the investments match the expected cash outflows arising from the  retirement benefit obligation.
+
+DMFIs investment objectives are to ensure that the assets of its qualified defined benefit plan are invested to  provide an optimal rate of investment return on the total investment portfolio, consistent with the assumption  of a reasonable risk level, and to ensure that pension funds are available to meet the plans benefit obligations  as they become due.
+
+DMFI believes that a well-diversified investment portfolio, including both equity and fixed income components,  will result in the highest attainable investment return with an acceptable level of overall risk.
+
+DMFIs investment  policies and procedures are designed to ensure that the plans investments are in compliance with the  Employee Retirement Income Security Act (ERISA).
+
+201 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 21.
+
+EMPLOYEE BENEFITS (CONTD) The BOD of DMFI approves the percentage of asset to be allocated for fixed income instruments and equities.
+
+The retirement plan has set maximum exposure limits for each type of permissible investments in marketable  securities and deposit instruments.
+
+The BOD of DMFI may, from time to time, in the exercise of its reasonable  discretion and taking into account existing investment opportunities, review and revise such allocation and  limits.
+
+Source of estimation uncertainty Pension expense and pension assets/liabilities are determined using certain actuarial estimates and assumptions  relating to the discount rate used in valuing the subsidiarys defined benefit obligations and future experiences  such as the rate of return on plan assets, future salary increases, retirement date or age, mortality, and turnover  rate of covered employees.
+
+These estimates and assumptions directly influence the amount of the pension  assets/liabilities and expense recognised in the financial statements.
+
+Sensitivity analysis The calculation of the defined benefit obligation is sensitive to the assumptions set out above.
+
+The following  table summarises how the impact on the defined benefit obligation at the end of reporting period would have  increased (decreased) as a result of a change in the respective assumptions by the respective percentages  below.
+
+Defined benefit obligation  DMFI  2018 2017 0.5% 0.5% 0.5% 0.5% increase decrease increase decrease US$000 US$000 US$000 US$000 Discount rate (per annum) (13,502) 14,646 (15,217) 16,578 Future salary increases (per annum) 1,364 (1,318) 1,522 (1,482) Defined benefit obligation  DMPI  2018 2017 1.0% 1.0% 1.0% 1.0% increase decrease increase decrease US$000 US$000 US$000 US$000 Discount rate (per annum)  (1,858)  2,139  (2,465) 2,954 Future salary increases (per annum)  1,901   (1,683) 1,424 (1,174) Defined benefit obligation  ROHQ  2018 2017 1.0% 1.0% 1.0% 1.0% increase decrease increase decrease US$000 US$000 US$000 US$000 Discount rate (per annum)  (30) 31   Future salary increases (per annum)  34   (28)   The above sensitivities are based on the average duration of the benefit obligation determined at the date of  the last full actuarial valuation at 30 April 2018 and are applied to adjust the defined benefit obligation at the  end of the report period for the assumptions concerned.
+
+Whilst the analysis does not take account of the full  distribution of cash flows expected under the plan, it does provide an approximation to the sensitivity of the  assumption shown.
+
+202 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 21.
+
+EMPLOYEE BENEFITS (CONTD) Sensitivity analysis Post-retirement benefit obligation  DMFI  2018 2017 1.0% 1.0% 1.0% 1.0% increase decrease increase decrease US$000 US$000 US$000 US$000 Health care cost trend rates (per annum) 2,991 (2,501) 3,994 (3,284) Accumulated post-retirement benefit obligation The accumulated post-retirement benefit obligation is computed in accordance with IAS 19 Employee Benefits.
+
+This quantity is the actuarial present value of all benefits attributed under the projected unit credit method to  service rendered prior to a particular date.
+
+Prior to an employees full eligibility date, the accumulated post- retirement benefit obligation as of a particular date for an employee is the portion of the expected post-retirement  benefit obligation attributed to that employees service rendered to that date; on and after the full eligibility date,  the accumulated and expected post-retirement benefit obligations for an employee are the same.
+
+Source of estimation uncertainty Accumulated post-retirement benefit obligation is determined using certain actuarial estimates and assumptions  relating to the annual rate(s) of change in the cost of health care benefits currently provided by the post- retirement benefit plans due to factors other than changes in the composition of the plan population by age  and dependency status, for each year from the measurement date until the end of the period in which benefits  are expected to be paid.
+
+These estimates and assumptions directly influence the amount of the pension assets/ liabilities and expense recognised in the financial statements.
+
+Multi-employer plans The Group participates in several multi-employer pension plans, which provide defined benefits to covered  union employees.
+
+Contributions rates to the multi-employer plans are provided in the collective bargaining  agreements for the covered union employees.
+
+The contribution rates are expressed in terms of specific amounts  to be contributed based on hours worked by covered union employees.
+
+The Group made contributions of   US$6.1 million and US$7.1 million during fiscal years 2018 and 2017, respectively.
+
+The risks of participating in the multi-employer pension plans are as follows:   assets contributed to the multi-employer plan by the Group may be used to provide benefits to  employees of other participating employers;   if a participating employer stops contributing to the plan, the unfunded obligations of the plan allocable  to such withdrawing employer may be partially borne by the Group; and   if the Group stops participating in some of its multi-employer pension plans, the Group may be required  to pay those plans an amount based on its allocable share of the underfunded status of the plan, referred  to as a withdrawal liability.
+
+204 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 23.
+
+TRADE AND OTHER CURRENT LIABILITIES  Group   Company  Note 30 April 2018 30 April 2017 30 April 2018 30 April 2017 US$000 US$000 US$000 US$000 Trade payables 156,450  162,505 479 783 Deferred revenue 13,592    Accrued operating expenses:   Advertising 12,582  12,220     Professional fees 10,189  13,591 1,725 2,796   Trade promotions 32,145  40,294     Accrued interest 9,594  11,133     Taxes and insurance 7,355  8,639     Freight and warehousing 5,214  6,320   Plant closure costs 3,025      Miscellaneous 3,625  5,256 2,765 1,991 Other payables 7,339  4,623 39  Accrued payroll expenses 5,583  8,282 2,874 4,467 Overdrafts 3,606 12,191   Derivative liabilities 20 3,260  9,531   Withheld from employees   (taxes and social security cost) 1,527  1,692 35 20 VAT payables 1,215  131 136 131 Advances from customers 317  3,137   Amounts due to subsidiaries   (nontrade) 37   79,020 108,283 276,618  299,545 87,073 118,471 The amounts due to subsidiaries are unsecured, interest-free and repayable on demand.
+
+Accrued miscellaneous include interest, utilities, customer deposits, freight and warehousing and customs and  other importation incidental costs.
+
+Sources of estimation uncertainty The determination of the unbilled trade promotion accrual requires significant estimation of the lag time when  the services are performed and billings are received.
+
+24.
+
+REVENUE Revenue of the Group comprises gross invoiced sales of goods, net of discounts and returns, and is recognised  when goods are delivered, and title has passed to customers.
+
+All intra-group transactions have been excluded  from Group revenue.
+
+Revenue for fiscal year ended 30 April 2018 is net of discounts of US$87.1 million, returns of US$20.6 million  and direct promotions of US$486.5 million.
+
+Revenue for fiscal year ended 30 April 2017 is net of discounts of  US$86.0 million, returns of US$20.1 million and direct promotions of US$491.2 million.
+
+Revenue for fiscal year  ended 30 April 2016 is net of discounts of US$85.2 million, returns of US$19.0 million and direct promotions  of US$485.2 million.
+
+209 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 28.
+
+EARNINGS (LOSS) PER SHARE (CONTD) Diluted earnings (loss) per share For the purpose of calculation of the diluted earnings per ordinary share, the weighted-average number of  ordinary shares in issue is adjusted to take into account the dilutive effect arising from Del Monte Pacific RSP,  with the potential ordinary shares weighted for the period outstanding.
+
+Group Year ended   30 April  2018 Year ended   30 April  2017 Year ended   30 April  2016 Profit (loss) attributable to owners of the Company (US$000) (36,492) 24,366 56,978 Cumulative preference share dividends (US$000) (15,958)  (847)  (52,450) 23,519 56,978 Diluted weighted-average number of shares (000): Weighted-average number of ordinary shares at end   of year (basic) 1,943,670   1,943,214  1,943,609 Potential ordinary shares issuable under share awards   746  736 Weighted-average number of ordinary shares issued (diluted) 1,943,670  1,943,960  1,944,345 Diluted earnings (loss) per share (in US cents) (2.70) 1.21 2.93 The potential ordinary shares issuable under the Del Monte ESOP were excluded from the diluted weighted- average number of ordinary shares calculation for the year ended 30 April 2017 and 2016 because their exercise  price is greater than the market price.
+
+As at 30 April 2018, all shares under the Del Monte ESOP have expired.
+
+29.
+
+OPERATING SEGMENTS The Group has two operating segments: geographical and product.
+
+In identifying these operating segments,  management generally considers geographical as its primary operating segment.
+
+Geographical segments Americas Reported under the Americas segment are sales and profit on sales in North and South America, and Canada.
+
+Majority of this segments sales are principally sold under the Del Monte brand but also under the Contadina,  S&W, College Inn and other brands.
+
+This segment also includes sales of private label food products.
+
+Sales  across various channels include retail markets, as well as to the United States military, certain export markets,  the food service industry and other food processors.
+
+Asia Pacific Reported under Asia Pacific are sales and profit on sales in the Philippines, comprising primarily of Del Monte  branded packaged products, including Del Monte traded goods; Todays; S&W products in Asia both fresh  and packaged; and Del Monte packaged products from the Philippines into Indian subcontinent as well as  unbranded fresh and packaged goods.
+
+Europe Included in Europe segment are sales of unbranded products in Europe.
+
+213 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 30.
+
+SEASONALITY OF OPERATIONS The Groups business is subject to seasonal fluctuations as a result of increased demand during the end of  year festive season.
+
+For Americas, products are sold heavily during the Thanksgiving and Christmas seasons.
+
+As  such, the Groups sales are usually highest during the three months from August to October.
+
+The Group operates 14 production facilities (30 April 2017 and 2016: 15 production facilities) in the U.S., Mexico,  and Philippines.
+
+Fruit plants are located in California and Washington in the United States and Philippines,  most of its vegetable plants are located in the U.S. Midwest and its tomato plants are located in California and  Indiana.
+
+The U.S. Consumer Food Business has a seasonal production cycle that generally runs between the months of  June and October.
+
+This seasonal production primarily relates to the majority of processed fruit, vegetable and  tomato products, while some of its processed fruit and tomato products and its College Inn broth products  are produced throughout the year.
+
+Additionally, the Consumer Food Business has contracts to co-pack certain  processed fruit and vegetable products for other companies.
+
+31.
+
+SHARE OPTION AND INCENTIVE PLANS The Del Monte Pacific Executive Stock Option Plan 1999 (ESOP 1999) of the Company was approved and  amended by its shareholders at general meetings held on 30 July 1999 and 21 February 2002 respectively.
+
+No  further options could be granted pursuant to the ESOP 1999 as it had expired on 24 July 2009.
+
+The options  granted by the Company prior to 24 July 2009 are valid for a period of ten years from the date of the grant of  options.
+
+The Company adopted a new plan, the Del Monte Pacific Executive Share Option Plan 2016 (ESOP 2016),  which was approved by the shareholders at the general meeting held on 30 August 2016.
+
+The purpose of the  ESOP 2016 is to provide an opportunity for Group executives to participate in the equity of the Company in  order to motivate them to excel in their performance.
+
+The ESOP 2016 shall be valid for a period of ten years;  however, it has yet to be implemented.
+
+The Company also had two share plans, the Del Monte Pacific Restricted Share Plan (Del Monte Pacific RSP)  and the Del Monte Pacific PSP Performance Share Plan (Del Monte Pacific PSP) (collectively the Share Plans),  which were approved by the Companys shareholders at the general meeting held on 26 April 2005.
+
+The Share  Plans sought to increase the Companys flexibility and effectiveness in its continuing efforts to reward, retain  and motivate employees targeted at executives holding key positions.
+
+The Share Plans expired after ten years  or on 25 April 2015.
+
+Any share awards granted prior to the expiration of the Share Plans would continue to be  valid.
+
+Other information regarding the Del Monte Pacific RSP are as follows: (a)  No minimum vesting periods are prescribed.
+
+(b)  The length of the vesting period(s) in respect of each award granted will be determined on a case-to- case basis by the RSOC.
+
+(c)  Delivery of shares upon vesting of the share awards may be by way of an issue of new shares and/or the  transfer of existing shares (by way of purchase of existing shares).
+
+On 12 May 2009, six employees of related companies were granted an aggregate of 3,749,000 share awards at  the market price of 0.540 Singapore dollar (S$) per share.
+
+214 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 31.
+
+SHARE OPTION AND INCENTIVE PLANS (CONTD) On 29 April 2011, 2,643,000 shares were awarded at the market price of S$0.485 per share to Mr. Joselito  D Campos, Jr, an associate of a controlling shareholder, approved by shareholders at the Annual General  Meeting of the Company held on 29 April 2011.
+
+On 30 April 2013, 211,440 shares were awarded to Joselito D Campos, Jr, and 275,440 shares to five employees  of related companies, representing 20% adjustment to the number of unvested share awards previously  granted, at the market price of S$0.810 per share.
+
+On 22 August 2013, 688,000 shares were awarded at the market price of S$0.840 per share to each Group  Non-Executive Director/Group Executive Director.
+
+On 1 July 2015, 57,918 shares were awarded at the market price of S$0.385 per share to six Directors of the  Company, arising from the rights issue of shares carried out by the Company on 10 March 2015.
+
+The grant of  the additional 57,918 share awards was for the adjustment to account for the dilutive effect arising from the  rights issue on the unvested share awards previously granted by the Company.
+
+Other information regarding the Del Monte Pacific PSP is set out below: (a)  Vesting periods are not applicable.
+
+(b)  Shares awarded are released at the end of the performance period (typically, at the conclusion of a  financial year end) once the RSOC is satisfied that the prescribed performance target(s) have been  achieved by awardees.
+
+(c)  Delivery of share awards may be by way of an issue of new shares and/or the transfer of existing shares  (by way of purchase of existing shares).
+
+As at the date of this report, no share awards have been granted pursuant to the Del Monte Pacific PSP.
+
+The RSOC is responsible for administering the ESOPs and the Share Plans.
+
+Details of the outstanding options granted to the Companys directors and employees under the ESOP 1999  and Del Monte Pacific RSP on unissued ordinary shares of the Company at the reporting date, are as follows: ESOP Options outstanding Date of grant of options Exercise period Exercise  price S$ 30 April 2018 30 April 2017 30 April 2016 7 March 2008 Up to 60%: 7 March 2010    6 March 2011 0.627  750,000 750,000 40%: 7 March 2011    6 March 2018  30 April 2013* Up to 100%: 30 April 2013    6 March 2018 0.627  150,000 150,000 1 July 2015 Up to 100%: 6 March 2018  0.578  75,765 75,765  975,765 975,765     *   On 30 April 2013, the Company approved the grant of 150,000 stock options, representing a 20% adjustment to the number of unexercised  stock options previously granted.
+
+The exercise period therefore follows that of the options granted on 7 March 2008.
+
+As of 30 April 2018, the number of outstanding ESOP options is nil due to the lapse of its exercise period.
+
+215 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 31.
+
+SHARE OPTION AND INCENTIVE PLANS (CONTD) Del Monte Pacific RSP Date of grant of share awards Vesting period Market price on date of  grant Share awards  granted Share awards  outstanding S$ 22 August 2013 Up to 60%: 22 August 2013   21 August 2016 40%: 22 August 2016  21 August 2017 0.840 688,000  1 July 2015 Up to 60%: 22 August 2016   21 August 2017 40%: 22 August 2017  21 August 2018 0.385 57,918  745,918  Since the commencement of the employee share option plans until the end of the financial year, no option  have been granted at a discount.
+
+The fair value of services received in return for share options granted are measured by reference to the fair  value of share options granted.
+
+The estimate of the fair value of the services received is measured based on the  Black-Scholes model.
+
+The expected life used in the model has been adjusted, based on managements best  estimate, for the effects of non-transferability, exercise restrictions and behavioral considerations.
+
+On 20 September 2017, the Company released all of its outstanding share awards to its Directors.
+
+There were  no additional share options exercised during the fiscal year ended 30 April 2018.
+
+Fair value of share options/awards and assumptions Date of grant of  options/awards 7 March 2008 30 April  2013 1 July  2015 12 May  2009 29 April  2011 30 April  2013 22  August  2013 1 July  2015  ESOP   Del Monte Pacific RSP  Fair value at  measurement date US$0.12 US$0.18 US$0.29 US$0.37 US$0.40 US$0.18 US$0.65 US$0.29 Share price   (Singapore Dollars)   at grant date 0.615 0.810 0.385 0.540 0.485 0.810 0.840 0.385 Exercise price  (Singapore Dollars) 0.627 0.627 0.578      Expected volatility 5.00% 2.00% 2.00%      Time to maturity 2 years 2 years 2 years      Risk-free interest rate 3.31% 1.51% 2.51%      The expected volatility is based on the historic volatility (calculated based on the weighted-average expected  life of the share options), adjusted for any expected changes to future volatility due to publicly available  information.
+
+There are no market conditions associated with the share option grants.
+
+Service conditions and non-market  performance conditions are not taken into account in the measurement of the fair value of the services to be  received at the grant date.
+
+220 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 32.
+
+FINANCIAL RISK MANAGEMENT (CONTD) Cash in banks and cash equivalents Cash in banks and cash equivalents are held with banks and financial institutions which are regulated.
+
+The percentages of cash in banks and cash equivalents held in the following regions are: 30 April 2018 30 April 2017 % % Group United States of America 10 8 Philippines 56 44 Hong Kong 33 47 Singapore 1 1 Company Philippines 11  Hong Kong 89 100 Apart from the information stated above, the Group and Company have no significant concentration of credit  risk with any single counterparty or group counterparties.
+
+Derivatives The derivatives are entered into with banks and financial institutions which are regulated.
+
+Interest rate risk Interest rate risk is the risk that the fair value or future cashflows of a financial instrument will fluctuate because  of changes in the market interest rates.
+
+The Groups exposure to the risk of changes in market interest rates  relates primarily to the Groups long-term and short-term debt obligations with floating interest rates.
+
+The Groups cash balances are placed with reputable global banks and financial institutions.
+
+The Group  manages its interest rate risks by placing the cash balances with varying maturities and interest rate terms.
+
+This  includes investing the Groups temporary excess liquidity in short-term low-risk securities from time to time.
+
+The Group also enters into interest rate swaps to manage the volatility.
+
+The Group obtains financing through  bank borrowings and leasing arrangements.
+
+Funding is obtained from bank loan facilities for both short-term  and long-term requirement.
+
+The Groups policy is to obtain the most favourable interest rate available without  increasing its foreign currency exposure.
+
+224 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 32.
+
+FINANCIAL RISK MANAGEMENT (CONTD) Foreign exchange risk Foreign currency risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate  because of changes in foreign exchange rates.
+
+The currency giving rise to this risk is primarily the US Dollar,  Mexican Peso and Venezuelan Bolivar.
+
+From time to time, the Group manages its exposure to fluctuations in foreign currency exchange rates by  entering into forward contracts to cover a portion of its projected expenditures paid in foreign currency.
+
+The  Group accounts for these contracts as cash flow hedges.
+
+At the reporting date, the Groups exposure to foreign currencies is as follows: US Dollar Mexican Peso US$000 US$000 30 April 2018 Trade and other receivables 37,129 5,053 Cash and cash equivalents 11,654 343 Other noncurrent assets 25,866  Loans and borrowings (61,860)  Trade and other payables (87,538) (5,954) (74,749) (558) 30 April 2017 Trade and other receivables 24,779 4,799 Cash and cash equivalents 15,932 183 Other noncurrent assets 21,507  Loans and borrowings (117,835)  Trade and other payables (97,834) (4,581) (153,451) 401 The Company has no significant exposure to foreign currencies as at 30 April 2018 and 2017.
+
+Sensitivity analysis A 10% strengthening of the group entities foreign currencies against their respective functional currency at the  reporting date would have increased (decreased) loss/profit before taxation and equity by the amounts shown  below.
+
+This analysis assumes that all other variables, in particular interest rates, remain constant.
+
+A 10% weakening of the group entities foreign currencies against their respective functional currency would  have the equal but opposite effect on the amounts shown below, on the basis that all other variables remain  constant.
+
+229 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 34.
+
+DETERMINATION OF FAIR VALUES (CONTD) Financial instruments measured at fair value  Type Valuation technique Forward exchange contracts Market comparison technique: The fair values are based on brokers  quotes.
+
+Fair values reflect the credit risk of the instrument and include  adjustments to take into account the credit risk of the Group and  counterparty when appropriate.
+
+Interest rate swaps Market comparison technique: The fair values are calculated using a  discounted cash flow analysis based on terms of the swap contracts  and the observable interest rate curve.
+
+Fair values reflect the risk of the  instrument and include adjustments to take into account the credit risk  of the Group and counterparty when appropriate.
+
+Commodities contracts Market comparison technique: The commodities are traded over- the-counter and are valued based on the Chicago Board of Trade  quoted prices for similar instruments in active markets or corroborated  by observable market data available from the Energy Information  Administration.
+
+The values of these contracts are based on the daily  settlement prices published by the exchanges on which the contracts  are traded.
+
+Financial instruments not measured at fair value  Type Valuation technique Financial liabilities The fair value of the secured first and second lien term loans are  calculated based on the present value of future principal and interest  cash flows, discounted at the market rate of interest at the reporting  date (Level 2).
+
+The fair value of the other loans is based on the discounted value of  expected future cash flows using risk free rates and credit spread ranging  from2.0% to 5.3% (30 April 2017: 2.6% to 4.7%) (Level 3).
+
+Other financial assets and liabilities The notional amounts of financial assets and liabilities with maturity  of less than one year (including trade and other receivables, cash and  cash equivalents, and trade and other payables) are, because of the  short period to maturity, assumed to approximate their fair values.
+
+All  other financial assets and liabilities are discounted to determine their fair  values.
+
+234 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 37.
+
+RELATED PARTIES (CONTD) Group Outstanding balance Category/  Transaction Year Amount of the  transaction US$000 Due from  Related  Parties*  US$000 Due to Related  Parties** US$000 Terms Conditions Under Common  Control  Shared IT services 2018  343   247   Due and demandable;  Unsecured;  2017  351   57   non-interest bearing no impairment 2016 215  79    Sale of tomato 2018  32    Due and demandable;  Unsecured;    paste 2017  34    non-interest bearing no impairment 2016 1,111     Inventory count 2018  33    Due and demandable;  Unsecured;    shortage 2017     non-interest bearing no impairment 2016 25     Purchases 2018  393    Due and demandable;  Unsecured 2017  247    24 non-interest bearing 2016 826    Share in JYCC Fit  2018    Due and demandable;  Unsecured;    Out Project 2017  16    non-interest bearing no impairment 2016     Tollpack fees 2018  572  110  Due and demandable;  Unsecured  2017  666    60 non-interest bearing 2016 551   63 Other Related Party    Management  fees from DMPI  retirement fund 2018  19   446   Due and demandable;  Unsecured;  2017  4   241   non-interest bearing no impairment 2016 4  261    Rental to DMPI  2018  1,858    Due and demandable;  Unsecured   retirement 2017  1,619    277 non-interest bearing 2016 1,393   3 Other Related Party  Rental to NAI 2018  543    Due and demandable;  Unsecured   retirement 2017  572    48 non-interest bearing 2016 529   166   Rental to DMPI  2018    Due and demandable;  Unsecured;    provident fund 2017  5    non-interest bearing no impairment 2016 7    2018 3,793  803   2017  3,514   298 409 2016 4,661 340 232 *  included as part of trade and other receivables excluding long-term loans receivable **  included as part of trade and other payables  235 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 37.
+
+RELATED PARTIES (CONTD) Company  Outstanding Balance Category/  Transaction Year Amount  of the  Transaction US$000 Due from  Related  Parties*  US$000 Due to Related  Parties** US$000 Terms Conditions Subsidiaries  Dividend income 2018 120,000 62,011  Due and demandable;  non-interest bearing Unsecured;   no impairment 2017     Long-term loans  receivable 2018 88,880 88,880  Due on 2021; Interest  bearing Unsecured;   no impairment 2017     Reimbursement  of expenses 2018 136,455 114,938  Due and demandable;  non-interest bearing Unsecured;   no impairment 2017  107,353   Cash advance  2018 29,801  77,400 Due and demandable;  non-interest bearing Unsecured   2017 45,313  107,201  Management  fees payable to  subsidiaries 2018 748  1,620 Due and demandable;  non-interest bearing Unsecured   2017 805  1,082 Joint Venture  Cash advance 2018  2,421  Due and demandable;  non-interest bearing Unsecured;   no impairment 2017 314 6,330  2018 268,250 79,020 2017 113,683 108,283 *  included as part of trade and other receivables excluding long-term loans receivable **  included as part of trade and other payables The transactions with related parties are carried out based on terms agreed between the parties.
+
+Pricing for  the sales of products are market driven, less certain allowances.
+
+For purchases, the Groups policy is to solicit  competitive quotations.
+
+Purchases are normally awarded based on the lowest price.
+
+As discussed in Note 19, the Company extended a loan to DMFHII that was used to finance DMFHIIs purchase  of Second Lien term loans.
+
+The loan will mature in 2021 subject to the applicable interest rate.
+
+Key management personnel compensation   Key management personnel of the Group are those persons having authority and responsibility for planning,  directing and controlling the activities of the Group.
+
+The Directors of the Company and key executive officers  (excluding executive directors) are considered as key management personnel of the Group.
+
+238 DEL MONTE PACIFIC LIMITED ANNUAL REPORT FY2018 NOTES TO THE FINANCIAL  STATEMENTS For the financial year ended 30 April 2018 39.
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION (CONTD) Reclassification and others includes the effect of reclassification of noncurrent portion of interest-bearing loans  and borrowings to current due to the passage of time, deferred financing costs, and fair value adjustments of  hedge contracts.
+
+40.
+
+SUBSEQUENT EVENT On 7 June 2018, the Company announced that its Philippine subsidiary, Del Monte Philippines, Inc (DMPI), was  deferring its initial public offering due to volatile market conditions.
+
+To safeguard the interests of the Company  and DMPI, the offering was deferred until such time when market conditions improve.
+
